@@ -1,0 +1,1046 @@
+,Names,Specialization,Experience,Hospital_Name,Area,City,Consultation_Fee,Doctor_recommondations,Patient_Stories,Doctor_availability
+1,Dr. Deepak Devakar,Dermatologist,19,Dermasculpt Hair Transplant and Skin Clinic,JP Nagar,Bangalore,600,98,580, Today
+2,Dr. Vignessh Raj,Dermatologist,16,Dr. RAJ's Centre for Skin & Hair,Whitefield,Bangalore,700,98,286, Today
+3,Dr. Neelima Sharma,Dermatologist,24,Manipal Hospital,Jayanagar 9 Block,Bangalore,650,95,27, Today
+4,Dr. Parthasarathi Dutta Roy,Dermatologist,20,Dr. Partha Sarathi's Asian Hair and Skin Hospitals,MG Road,Bangalore,700,89,1314, Today
+5,Dr. Jyothi Menon,Dermatologist,22,Oliva Skin & Hair Clinic,Koramangala 7 Block,Bangalore,600,96,33, Today
+6,Dr. Sankeerth Vijayakumar,Dermatologist,13,Dermaville,HSR Layout,Bangalore,600,97,156, Today
+7,Dr. Kisalay Saurav,Dermatologist,20,Dr. Saurav's Skin Clinic,Kalyan Nagar,Bangalore,700,93,115, Today
+8,Dr. Sheelavathi Natraj,Dermatologist,19,Sapphire Skin and Aesthetics Clinic,JP Nagar,Bangalore,700,94,583, Today
+9,Dr. Sandeep Mahapatra,Dermatologist,18,Neo Follicle Transplant Clinic,Marathahalli,Bangalore,800,90,930, Today
+10,Dr. Shashidhar T,Dermatologist,16,Dermacare Skin & Hair Clinic,Jayanagar 4 Block,Bangalore,700,98,703, Today
+13,Dr. Sajjan R Agarwal,Dermatologist,45,Rama Skin Clinic,Panjagutta,Hyderabad,700,92,297, Today
+14,Dr. G L Sitara,Dermatologist,13,Dr Sitara Advanced Skin And Hair Clinic,Madinaguda,Hyderabad,500,97,287, Today
+15,Dr. B Anand,Dermatologist,17,SmilenGlow Dental and Skin Hospital,Karkhana,Hyderabad,600,97,192, Today
+16,Dr. Sirisha Yanegalla,Dermatologist,13,Derma 360,Kondapur,Hyderabad,600,97,159, Today
+17,Dr. Madhavi Pudi,Dermatologist,16,Dr. Madhavis Advanced Skin Hair and Laser Clinic,Balkampet,Hyderabad,800,91,554, Today
+18,Dr. Kamal,Dermatologist,33,"Novocare Hair, Skin, Obesity Clinic",Himayat Nagar,Hyderabad,500,99,121, Today
+19,Dr. Rajeshwari,Dermatologist,20,Dr.Rajeshwaris Skin Care And Hair Restoration Centre,Jubilee Hills,Hyderabad,700,83,497, Today
+20,Dr. P. Madhavi Reddy,Dermatologist,23,Oliva Skin & Hair Clinic,Banjara Hills,Hyderabad,600,99,148, Today
+21,Dr. Venu Kumari,Dermatologist,18,Dr. Venus Insititue of Skin & Hair,Chanda Nagar,Hyderabad,500,86,917, Today
+22,Dr. Shravya G,Dermatologist,17,Anceita Skin and Hair Clinic,Jubilee Hills,Hyderabad,800,92,203, Today
+24,Dr. Subhashini Mohan,Dermatologist,17,Apollo Spectra Hospital,Alwarpet,Chennai,1000,96,17, Today
+25,Dr. Jyothsna,Dermatologist,12,"Curves Cosmetic Surgery, Skin & Laser Clinic",Saligramam,Chennai,700,96,142, Today
+26,Dr. Col Rajagopal A,Dermatologist,61,Apollo Hospital,Greams Road,Chennai,1000,100,4, Today
+27,Dr. B.Sindhu Raaghavi,Dermatologist,13,Carves Skin Clinic,Velachery,Chennai,700,98,219, Today
+28,Dr. Sukanya Mathupal,Dermatologist,23,Dr. Rela Institute & Medical Centre,Chromepet,Chennai,600,94,95, Today
+29,Dr. Snehalatha,Dermatologist,18,Nila Skin Care Clinic,Tambaram East,Chennai,750,92,234, Today
+30,Dr. Rajeshwari,Dermatologist,20,Dr.Rajeshwari's Skin & Hair Care Private Limited,T Nagar,Chennai,700,83,497, Today
+31,Dr. Cordelia Babitha,Dermatologist,19,Avira Skin and Hair Clinic,Besant Nagar,Chennai,600,100,44, Today
+32,Dr. Senthil Sivaprakasam,Dermatologist,18,Radiance Skin And Hair Care,Kilpauk,Chennai,600,99,51, Today
+33,Dr. Ariganesh,Dermatologist,16,Derma Clinix,Mylapore,Chennai,500,89,69, Today
+36,Dr. Rameshwar Gutte,Dermatologist,19,Dermodent Clinic,Kanjurmarg,Mumbai,500,95,86, Today
+37,Dr. Resham Vasani Bhojani,Dermatologist,24,BHOJANI CLINIC,Matunga,Mumbai,1700,99,261, Today
+38,Dr. Kiran Katkar,Dermatologist,38,Dr Kiran Katkar's Dermis Skin Wellness Clinic Lase,Dadar West,Mumbai,1200,93,130, Today
+39,Dr. Neha V Shah,Dermatologist,14,Skin Vogue Clinic,Ghatkopar East,Mumbai,1000,99,119, Today
+40,Dr. Vaishali Kanthi,Dermatologist,25,Luvayaa Skin Clinic,Bhandup West,Mumbai,800,87,56, Today
+41,Dr. Sejal Saheta,Dermatologist,19,Inurskn - Skin & Hair Clinic,Powai,Mumbai,1000,95,260, Today
+42,Dr. Pallavi Rathi,Dermatologist,19,My Skin My Health,Andheri East,Mumbai,1000,90,261, Today
+43,Dr. Shubhangi Mahajan,Dermatologist,13,Skin Omega Clinic,Parel,Mumbai,800,100,58, Today
+44,Dr. Sarika Holmukhe,Dermatologist,18,Dr Skinn Clinic,Andheri West,Mumbai,1000,95,110, Today
+45,Dr. Raina Nahar,Dermatologist,15,Kaizen Skin Clinic,Andheri West,Mumbai,1000,92,135, Today
+48,Dr. Sonal Chavan,Dermatologist,17,Dr. Sonnal Chavaan Aesthetic Clinic,Pimple Saudagar,Pune,700,90,396, Today
+49,Dr. Rajshree Patil,Dermatologist,25,Kimaya Skin Clinic,Aundh,Pune,500,90,217, Today
+50,Dr. L K Desai,Dermatologist,28,"Dr. Desai Dermacare- Skin, Hair & Laser Clinic",Sopan Baug,Pune,500,94,139, Today
+51,Dr. K R Chandvania,Dermatologist,44,Pallavi Laser Centre,Pimpri-Chinchwad,Pune,900,83,90, Today
+52,Dr. Pradeep Kumari,Dermatologist,20,Skin And Surgery International & Asia Institute Of Hair Transplant,Viman Nagar,Pune,700,96,670, Today
+53,Dr. Mohan Darbastwar,Dermatologist,16,The Skin Hair Laser & Cosmetology Clinic,Koregaon Park,Pune,600,97,255, Today
+54,Dr. Nandini Teli,Dermatologist,14,Alpha Superspeciality Hospital,Wakad,Pune,800,91,424, Today
+55,Dr. Amit S Murkute,Dermatologist,13,Elite Skin & Hair Clinic,Wakad,Pune,600,96,16, Today
+56,Dr. Ravi Kothari,Dermatologist,20, Sparsh Skin Hair Laser Clinic,Aundh,Pune,500,86,117, Today
+57,Dr. Patil Leena Rajendra,Dermatologist,8,MySkin - Skin and Hair Refiner,Viman Nagar,Pune,500,96,14, Today
+60,Dr. Vijay Singhal,Dermatologist,18,Zenith Skin Hair & Dental Centre,Punjabi Bagh,Delhi,800,93,152, Today
+61,Dr. Indu Ballani,Dermatologist,18,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1000,91,18, Today
+62,Dr. A J Kanwar,Dermatologist,52,Dr AJ Kanwar Skin Clinic,Greater Kailash Part 1,Delhi,1500,96,387, Today
+63,Dr. Deepti  Shrivastava,Dermatologist,28,Skin Hair & You,Anand Vihar,Delhi,800,95,319, Today
+64,Dr. Jatin Sidhwa,Dermatologist,8,SIDHWA SKIN CLINIC,Vasant Kunj,Delhi,800,98,44, Today
+65,Dr. Richa Sharma,Dermatologist,26,Twacha Skin Clinic,Dwarka,Delhi,1500,96,137, Today
+66,Dr. Jalpa Jani,Dermatologist,21,Klarity Skin Clinic,Greater Kailash Part 2,Delhi,1000,96,65, Today
+67,Dr. Manu Saxena,Dermatologist,35,Apollo Spectra Hospital,Greater Kailash Part 1,Delhi,1000,75,2, Today
+68,Dr. Anuva Bansal,Dermatologist,10,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1400,100,1, Today
+69,Dr. Sandeep Gupta,Dermatologist,19,Balaji Skin Clinic,Hari Nagar,Delhi,700,94,148, Today
+71,Dr. Reeja Mariam George,Dermatologist,15,Oliva Skin & Hair Clinic,Park Street,Kolkata,600,100,71, Today
+72,Dr. Debatri Datta,Dermatologist,8,Oliva Skin & Hair Clinic,Salt Lake,Kolkata,600,97,104, Today
+73,Dr. Anupam Das,Dermatologist,8,IRIS Hospital,Baghajatin,Kolkata,600,100,2, Today
+74,Dr. Khushbu Tantia,Dermatologist,10,La Derma Skin & Hair Clinic,Salt Lake,Kolkata,600,90,47, Today
+75,Dr. Barnali Dutta,Dermatologist,27,Oliva Skin & Hair Clinic,Jodhpur Park,Kolkata,600,95,81, Today
+76,Dr. Tripathy Sanjita,Dermatologist,17,Oliva Skin & Hair Clinic,Park Street,Kolkata,600,86,13, Today
+77,Dr. Priyanka Aggarwal,Dermatologist,14,Re-Incarnation The Complete Skin Care Clinic,New Town,Kolkata,1000,93,43, Today
+78,Dr. Farhat Fatima,Dermatologist,7,Oliva Skin & Hair Clinic,Jodhpur Park,Kolkata,600,100,6, Today
+79,Dr. Nidhi jindal,Dermatologist,18,Oliva Skin & Hair Clinic,Salt Lake,Kolkata,600,97,42, Today
+80,Dr. Soumya Kanti Datta,Dermatologist,5,La Derma Skin & Hair Clinic,Park Street,Kolkata,600,100,1, Today
+161,Dr. Deepthi RK Shashidhar,Gynecologist/Obstetrician,16,First Care Clinic,Jayanagar 4 Block,Bangalore,600,98,361, Today
+162,Dr. Deepak V Rao,Gynecologist/Obstetrician,32,Motherhood Hospital,Indiranagar,Bangalore,700,95,23, Today
+163,Dr. M. Gowri,Gynecologist/Obstetrician,33,Queens Hospital,HSR Layout,Bangalore,700,91,272, Today
+164,Dr. Kavitha Lakshmi Easwaran,Gynecologist/Obstetrician,26,Sai Speciality Center,Kasturi nagar,Bangalore,700,95,221, Today
+165,Dr. Archana Agarwal,Gynecologist/Obstetrician,30,Mannat Fertility & Gynecology Clinic,Marathahalli,Bangalore,700,85,211, Today
+166,Dr. Vanita Vaishnav,Gynecologist/Obstetrician,14,Apollo Clinic,HSR Layout,Bangalore,600,98,63, Today
+167,Dr. H S Chandrika,Gynecologist/Obstetrician,41,Chirag Hospital,JP Nagar 2 Phase,Bangalore,800,97,67, Today
+168,Dr. Suman Singh,Gynecologist/Obstetrician,29,Manasi Clinic,BTM Layout 2nd Stage,Bangalore,700,93,766, Today
+169,Dr. Kishore C Kumtakar,Gynecologist/Obstetrician,44,Manipal Hospital,Jayanagar 9 Block,Bangalore,500,100,2, Today
+170,Dr. Asha Puranikmath,Gynecologist/Obstetrician,32,Motherhood Hospital,Indiranagar,Bangalore,800,91,87, Today
+173,Dr. K. Suma,Gynecologist/Obstetrician,35,Prasad Infertility Solutions,Kukatpally,Hyderabad,700,93,146, Today
+174,Dr. G Durga Rao,Gynecologist/Obstetrician,29,Oasis Fertility,Banjara Hills,Hyderabad,750,98,126, Today
+175,Dr. Shalni .S,Gynecologist/Obstetrician,12,Hegde Hospital,Madhapur,Hyderabad,600,96,56, Today
+176,Dr. Andal Reddy,Gynecologist/Obstetrician,23,Relief Clinic,Manikonda,Hyderabad,500,95,85, Today
+177,Dr. Puja Lavania,Gynecologist/Obstetrician,17,Life Care Gynaecology Hospital,Chanda Nagar,Hyderabad,400,94,149, Today
+178,Dr. M.Kalpana,Gynecologist/Obstetrician,17,Kasturi Multispeciality Hospital,Secunderabad,Hyderabad,500,87,30, Today
+179,Dr. B Kiranmayee,Gynecologist/Obstetrician,14,Kiranmayee Women & Fertility Clinic,Nallagandla,Hyderabad,550,96,231, Today
+180,Dr. K. Amrutha,Gynecologist/Obstetrician,12,Kadimi Nursing Home,Chanda Nagar,Hyderabad,400,92,22, Today
+181,Dr. G Jayanthi,Gynecologist/Obstetrician,15,"J.S. Hospitals - Ortho, Maternity and General",Vanasthalipuram,Hyderabad,350,95,9, Today
+182,Dr. P Tanuja,Gynecologist/Obstetrician,14,Aster Prime Hospital,Ameerpet,Hyderabad,500,100,6, Today
+185,Dr. Shantha Rama Rao,Gynecologist/Obstetrician,50,Thulasi Krishna Nursing Home,Kodambakkam,Chennai,500,94,31, Today
+186,Dr. Florence Vasantha Praba,Gynecologist/Obstetrician,23,Cherub Fertility Clinic,Rajakilpakkam,Chennai,400,96,93, Today
+187,Dr. K.S Jeyarani Kamaraj,Gynecologist/Obstetrician,35,Aakash Fertility Centre & Hospital,Vadapalani,Chennai,600,92,114, Today
+188,Dr. Premalatha Balachandran,Gynecologist/Obstetrician,25,Fortis Malar Hospital,Adyar,Chennai,500,100,33, Today
+189,Dr. Amudha Arumugam,Gynecologist/Obstetrician,32,The Mint Clinic,Anna Nagar East,Chennai,500,100,11, Today
+190,Dr. Thamarai,Gynecologist/Obstetrician,27,Prolife Obstetrics And Gynaecology  Clinic & Scans,Manapakkam,Chennai,400,97,131, Today
+191,Dr. Sasirekha Kumaran,Gynecologist/Obstetrician,23,Jeevan Women Care Clinic,Valasaravakkam,Chennai,500,97,199, Today
+192,Dr. Sarala Jayaraman,Gynecologist/Obstetrician,39,Dr. Mehta's Hospitals,Chetpet,Chennai,500,100,1, Today
+193,Dr. Rukkayal Fathima,Gynecologist/Obstetrician,12,Golden Clinic,Mylapore,Chennai,400,99,223, Today
+194,Dr. Archana S Ayyanathan,Gynecologist/Obstetrician,18,Dr Archana IVF & Women Center,Anna Nagar,Chennai,1000,96,83, Today
+196,Dr. Kishori Dinendra Kadam,Gynecologist/Obstetrician,39,Fortis Hospital,Mulund West,Mumbai,1300,90,24, Today
+197,Dr. Shilpa Bansal Agrawal,Gynecologist/Obstetrician,18,Harleys Cosmetic & Women Clinic,Andheri West,Mumbai,1500,99,472, Today
+198,Dr. Rajendra S Sankpal,Gynecologist/Obstetrician,29,SAGE Hospital,Malad West,Mumbai,1000,98,66, Today
+199,Dr. Shilpa Abhyankar,Gynecologist/Obstetrician,29,Parchure Nursing Home,Dadar East,Mumbai,800,97,135, Today
+200,Dr. Gouri Sultane Gupta,Gynecologist/Obstetrician,20,DZIRE IVF,Goregaon West,Mumbai,1000,91,99, Today
+201,Dr. Nanda R Kumar,Gynecologist/Obstetrician,20,Dr. Nanda R Kumar's Gynecology Clinic.,Chembur East,Mumbai,1000,89,118, Today
+202,Dr. Punit Bhojani,Gynecologist/Obstetrician,20,BHOJANI CLINIC,Matunga,Mumbai,1000,99,74, Today
+203,Dr. Shreedevi Tanksale,Gynecologist/Obstetrician,15,Little Miracles Fertility Clinic,Vileparle East,Mumbai,1000,99,125, Today
+204,Dr. Tejal Poddar,Gynecologist/Obstetrician,12,Little Miracles Fertility Clinic,Opera House,Mumbai,1000,98,89, Today
+205,Dr. Parzan Mistry,Gynecologist/Obstetrician,9,Gynafem -The Complete Gynaec & Fertility Solution Clinic,Nana Chowk,Mumbai,1000,100,29, Today
+208,Dr. Pratibha Chavan,Gynecologist/Obstetrician,19,Galaxy Hospital,Pimple Saudagar,Pune,600,96,737, Today
+209,Dr. Jagrati Laad,Gynecologist/Obstetrician,19,Wombs Fertility and Reproductive Health Clinic,Baner,Pune,600,93,226, Today
+210,Dr. Lavina Batra,Gynecologist/Obstetrician,18,Life Care Clinic,Viman Nagar,Pune,400,80,506, Today
+211,Dr. Manjusha Yetalkar,Gynecologist/Obstetrician,26,Nisarg Women Healthcare,Pimple Saudagar,Pune,600,95,140, Today
+212,Dr. Sunita Umberkar,Gynecologist/Obstetrician,18,Dr. Sunita Umberkar's Women's Clinic,Bavdhan,Pune,500,99,243, Today
+213,Dr. Manisha Munemane,Gynecologist/Obstetrician,28,Vatsalya Women's World,Wakad,Pune,600,94,401, Today
+214,Dr. Sunita Kale,Gynecologist/Obstetrician,32,Shree Maternity Nursing Home,Karve Nagar,Pune,700,98,236, Today
+215,Dr. Mukta Rayate,Gynecologist/Obstetrician,25,Rayate Clinic,Kothrud,Pune,600,99,327, Today
+216,Dr. Mohita Goyal,Gynecologist/Obstetrician,23,Mohita Poly Clinic,Viman Nagar,Pune,600,95,289, Today
+217,Dr. Meghana Giri,Gynecologist/Obstetrician,18,GK Women's Care Clinic,Viman Nagar,Pune,400,95,92, Today
+220,Dr. Madhu Ahuja,Gynecologist/Obstetrician,39,Cloudnine Hospitals,Patparganj,Delhi,1100,93,23, Today
+221,Dr. Keerti Khetan,Gynecologist/Obstetrician,30,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1500,91,9, Today
+222,Dr. Neha Khandelwal,Gynecologist/Obstetrician,19,FeHealth Clinic,Greater Kailash Part 1,Delhi,1200,99,488, Today
+223,Dr. Shikha Gurnani,Gynecologist/Obstetrician,20,Bloom Vision Clinic,Dwarka,Delhi,800,98,687, Today
+224,Dr. Pratibha Gupta,Gynecologist/Obstetrician,22,Healing Hands PG Gynaecology & Urology Center,Janakpuri,Delhi,600,95,392, Today
+225,Dr. Sutopa Banerjee,Gynecologist/Obstetrician,26,Dr. Sutopa Banerjee's Complete Care for Women,Vasant Kunj,Delhi,1200,97,788, Today
+226,Dr. Anuradha Dakour,Gynecologist/Obstetrician,19,Motherhood Clinic,Lajpat Nagar,Delhi,500,97,201, Today
+227,Dr. Ruchi Tandon,Gynecologist/Obstetrician,18,SCI International Hospital,Greater Kailash Part 1,Delhi,1400,100,5, Today
+228,Dr. Shalini Agarwal,Gynecologist/Obstetrician,23,Cloudnine Hospitals,Patparganj,Delhi,1100,99,202, Today
+229,Dr. Alka Sinha,Gynecologist/Obstetrician,23,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1300,62,16, Today
+232,Dr. Subidita Chatterjee,Gynecologist/Obstetrician,38,Body N Mind Cafe,Salt Lake,Kolkata,1000,90,280, Today
+233,Dr. Sharmishtha Patra,Gynecologist/Obstetrician,25,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,700,85,65, Today
+234,Dr. Arunima Haldar,Gynecologist/Obstetrician,14,Care N Cure Opticals And Wellness Centre,New Town,Kolkata,600,98,28, Today
+235,Dr. Sunipa Chatterjee,Gynecologist/Obstetrician,11,Techno India Dama Healthcare & Medical Centre,Beliaghata,Kolkata,900,100,7, Today
+236,Dr. Shamita Singhel,Gynecologist/Obstetrician,26,AMRI Hospitals,Salt Lake,Kolkata,500,100,8, Today
+237,Dr. Arindam Rath,Gynecologist/Obstetrician,19,Apollo Fertility,Gobra,Kolkata,1000,100,6, Today
+238,Dr. M. Padmaja Bhattacharya,Gynecologist/Obstetrician,29,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,900,96,29, Today
+239,Dr. Ramna Banerjee,Gynecologist/Obstetrician,26,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,1000,92,28, Today
+240,Dr. Jayanta Kumar Gupta,Gynecologist/Obstetrician,41,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,1100,83,9, Today
+241,Dr. Sukhamoy Barik,Gynecologist/Obstetrician,16,Charnock Hospital,Teghoria,Kolkata,650,99,105, Today
+243,Dr. Vani M,Dermatologist,28,S. S. Skin And Surgical Centre,Sanjay Nagar,Bangalore,500,97,288, Today
+244,Dr. Janet Alexander Castelino,Dermatologist,30,DermaZeal Clinic,HSR Layout,Bangalore,1000,92,3318, Today
+245,Dr. Rohini Krishnamoorthy,Dermatologist,37,Fortis Hospital,Richmond Town,Bangalore,700,92,48, Today
+246,Dr. Chandrashekara Aithal,Dermatologist,33,Skin Hair & Cosmetology Clinic,BTM Layout 2nd Stage,Bangalore,500,86,81, Today
+247,Dr. S C Rajendran,Dermatologist,44,Vydehi Super Speciality Hospital(Mallya Hospital),Ashoknagar,Bangalore,800,68,111, Today
+248,Dr. M G Gopal,Dermatologist,37,Sagar Hospitals,Jayanagar,Bangalore,700,90,85, Today
+249,Dr. Juvita Rasquinha,Dermatologist,18,"Dr. Juvita's Aesthetics Skin, Hair and Cosmetology Clinic",Indiranagar,Bangalore,500,91,458, Today
+250,Dr. Sohandas Shetty B,Dermatologist,26,Vijaya Medical Centre,Bannerghatta Road,Bangalore,450,96,202, Today
+251,Dr. Veena Rao,Dermatologist,24,Oliva Skin And Hair Clinic,Jayanagar 5 Block,Bangalore,600,96,138, Today
+252,Dr. Jyothi Menon,Dermatologist,22,Oliva Skin & Hair Clinic,Koramangala 7 Block,Bangalore,600,96,33, Today
+255,Dr. Sajjan R Agarwal,Dermatologist,45,Rama Skin Clinic,Panjagutta,Hyderabad,700,92,297, Today
+256,Dr. G L Sitara,Dermatologist,13,Dr Sitara Advanced Skin And Hair Clinic,Madinaguda,Hyderabad,500,97,287, Today
+257,Dr. B Anand,Dermatologist,17,SmilenGlow Dental and Skin Hospital,Karkhana,Hyderabad,600,97,192, Today
+258,Dr. Sirisha Yanegalla,Dermatologist,13,Derma 360,Kondapur,Hyderabad,600,97,159, Today
+259,Dr. Madhavi Pudi,Dermatologist,16,Dr. Madhavis Advanced Skin Hair and Laser Clinic,Balkampet,Hyderabad,800,91,554, Today
+260,Dr. Kamal,Dermatologist,33,"Novocare Hair, Skin, Obesity Clinic",Himayat Nagar,Hyderabad,500,99,121, Today
+261,Dr. Rajeshwari,Dermatologist,20,Dr.Rajeshwaris Skin Care And Hair Restoration Centre,Jubilee Hills,Hyderabad,700,83,497, Today
+262,Dr. P. Madhavi Reddy,Dermatologist,23,Oliva Skin & Hair Clinic,Banjara Hills,Hyderabad,600,99,148, Today
+263,Dr. Venu Kumari,Dermatologist,18,Dr. Venus Insititue of Skin & Hair,Chanda Nagar,Hyderabad,500,86,917, Today
+264,Dr. Shravya G,Dermatologist,17,Anceita Skin and Hair Clinic,Jubilee Hills,Hyderabad,800,92,203, Today
+266,Dr. Subhashini Mohan,Dermatologist,17,Apollo Spectra Hospital,Alwarpet,Chennai,1000,96,17, Today
+267,Dr. Jyothsna,Dermatologist,12,"Curves Cosmetic Surgery, Skin & Laser Clinic",Saligramam,Chennai,700,96,142, Today
+268,Dr. Col Rajagopal A,Dermatologist,61,Apollo Hospital,Greams Road,Chennai,1000,100,4, Today
+269,Dr. B.Sindhu Raaghavi,Dermatologist,13,Carves Skin Clinic,Velachery,Chennai,700,98,219, Today
+270,Dr. Sukanya Mathupal,Dermatologist,23,Dr. Rela Institute & Medical Centre,Chromepet,Chennai,600,94,95, Today
+271,Dr. Snehalatha,Dermatologist,18,Nila Skin Care Clinic,Tambaram East,Chennai,750,92,234, Today
+272,Dr. Rajeshwari,Dermatologist,20,Dr.Rajeshwari's Skin & Hair Care Private Limited,T Nagar,Chennai,700,83,497, Today
+273,Dr. Cordelia Babitha,Dermatologist,19,Avira Skin and Hair Clinic,Besant Nagar,Chennai,600,100,44, Today
+274,Dr. Senthil Sivaprakasam,Dermatologist,18,Radiance Skin And Hair Care,Kilpauk,Chennai,600,99,51, Today
+275,Dr. Ariganesh,Dermatologist,16,Derma Clinix,Mylapore,Chennai,500,89,69, Today
+278,Dr. Rameshwar Gutte,Dermatologist,19,Dermodent Clinic,Kanjurmarg,Mumbai,500,95,86, Today
+279,Dr. Sneha Gupta Palvia,Dermatologist,13,Skin Smart Solutions,Grant Road,Mumbai,0,100,13, Today
+280,Dr. Prachi Saraogi,Dermatologist,15,Saraogi Healthcare,Malad East,Mumbai,800,99,177, Today
+281,Dr. Jolly Shah Kapadia,Dermatologist,24,Dr Jolly's Skin Nurture Clinic,Mulund West,Mumbai,1000,95,195, Today
+282,Dr. Pallavi Rathi,Dermatologist,19,My Skin My Health,Andheri East,Mumbai,1000,90,261, Today
+283,Dr. Resham Vasani Bhojani,Dermatologist,24,BHOJANI CLINIC,Matunga,Mumbai,1700,99,261, Today
+284,Dr. Sejal Saheta,Dermatologist,19,Inurskn - Skin & Hair Clinic,Powai,Mumbai,1000,95,260, Today
+285,Dr. Anju Bijoy Methil,Dermatologist,29,The Skin and Shape Clinic,Andheri West,Mumbai,1000,96,144, Today
+286,Dr. Minal M Thamke Pawar,Dermatologist,17,Wellness Clinic,Mulund East,Mumbai,800,99,44, Today
+287,Dr. Vaishali Kanthi,Dermatologist,25,Luvayaa Skin Clinic,Bhandup West,Mumbai,800,87,56, Today
+290,Dr. Nitin Jain,Dermatologist,21,Skin And Surgery International & Asia Institute Of Hair Transplant,Kothrud,Pune,700,97,334, Today
+291,Dr. Mohan Darbastwar,Dermatologist,16,The Skin Hair Laser & Cosmetology Clinic,Koregaon Park,Pune,600,97,255, Today
+292,Dr. Sonal Chavan,Dermatologist,17,Dr. Sonnal Chavaan Aesthetic Clinic,Pimple Saudagar,Pune,700,90,396, Today
+293,Dr. Vijay Nagdev,Dermatologist,13,The Skin Doctors,Pimpri-Chinchwad,Pune,700,93,829, Today
+294,Dr. Rohan Anand,Dermatologist,11,Skin World Clinic,Koregaon Park,Pune,500,91,135, Today
+295,Dr. Amrin Jibrail Diwan,Dermatologist,11,Oliva Skin and Hair Clinic,Kalyani Nagar,Pune,600,99,80, Today
+296,Dr. Ravi Kothari,Dermatologist,20, Sparsh Skin Hair Laser Clinic,Aundh,Pune,500,86,117, Today
+297,Dr. Pallavi Ahire Shelke,Dermatologist,16,SkinEthics Skin Clinic & Dermatosurgery Center,Baner,Pune,600,97,449, Today
+298,Dr. Abdul Mateen M Ayyub,Dermatologist,12,Apollo Clinic,Wanowrie,Pune,500,98,37, Today
+299,Dr. Pooja Tilwani,Dermatologist,14,The Skin Doctors,Pimple Saudagar,Pune,700,94,602, Today
+302,Dr. Vijay Singhal,Dermatologist,18,Zenith Skin Hair & Dental Centre,Punjabi Bagh,Delhi,800,93,152, Today
+303,Dr. Indu Ballani,Dermatologist,18,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1000,91,18, Today
+304,Dr. A J Kanwar,Dermatologist,52,Dr AJ Kanwar Skin Clinic,Greater Kailash Part 1,Delhi,1500,96,387, Today
+305,Dr. Deepti  Shrivastava,Dermatologist,28,Skin Hair & You,Anand Vihar,Delhi,800,95,319, Today
+306,Dr. Jatin Sidhwa,Dermatologist,8,SIDHWA SKIN CLINIC,Vasant Kunj,Delhi,800,98,44, Today
+307,Dr. Richa Sharma,Dermatologist,26,Twacha Skin Clinic,Dwarka,Delhi,1500,96,137, Today
+308,Dr. Jalpa Jani,Dermatologist,21,Klarity Skin Clinic,Greater Kailash Part 2,Delhi,1000,96,65, Today
+309,Dr. Manu Saxena,Dermatologist,35,Apollo Spectra Hospital,Greater Kailash Part 1,Delhi,1000,75,2, Today
+310,Dr. Anuva Bansal,Dermatologist,10,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1400,100,1, Today
+311,Dr. Sandeep Gupta,Dermatologist,19,Balaji Skin Clinic,Hari Nagar,Delhi,700,94,148, Today
+313,Dr. Reeja Mariam George,Dermatologist,15,Oliva Skin & Hair Clinic,Park Street,Kolkata,600,100,71, Today
+314,Dr. Debatri Datta,Dermatologist,8,Oliva Skin & Hair Clinic,Salt Lake,Kolkata,600,97,104, Today
+315,Dr. Anupam Das,Dermatologist,8,IRIS Hospital,Baghajatin,Kolkata,600,100,2, Today
+316,Dr. Khushbu Tantia,Dermatologist,10,La Derma Skin & Hair Clinic,Salt Lake,Kolkata,600,90,47, Today
+317,Dr. Barnali Dutta,Dermatologist,27,Oliva Skin & Hair Clinic,Jodhpur Park,Kolkata,600,95,81, Today
+318,Dr. Tripathy Sanjita,Dermatologist,17,Oliva Skin & Hair Clinic,Park Street,Kolkata,600,86,13, Today
+319,Dr. Priyanka Aggarwal,Dermatologist,14,Re-Incarnation The Complete Skin Care Clinic,New Town,Kolkata,1000,93,43, Today
+320,Dr. Farhat Fatima,Dermatologist,7,Oliva Skin & Hair Clinic,Jodhpur Park,Kolkata,600,100,6, Today
+321,Dr. Nidhi jindal,Dermatologist,18,Oliva Skin & Hair Clinic,Salt Lake,Kolkata,600,97,42, Today
+322,Dr. Soumya Kanti Datta,Dermatologist,5,La Derma Skin & Hair Clinic,Park Street,Kolkata,600,100,1, Today
+405,Dr. Ganesh Shetty,Dentist,25,Dental and Orthodontic Clinic,Kalyan Nagar,Bangalore,500,98,956, Today
+406,Dr. Akshai Shetty,Dentist,26,Aesthete Lifestyle Dentistry,HSR Layout,Bangalore,500,97,101, Today
+407,Dr. Baswaraj Biradar,Dentist,26,Impressions Dental Specialities,Sahakaranagar,Bangalore,500,99,425, Today
+408,Dr. Sunil Rao,Dentist,27,Smile Dental Care,Vijayanagar,Bangalore,500,98,200, Today
+409,Dr. Vivekananda Reddy,Dentist,22,Smile Craft Dental and Implant Centre,Hoodi,Bangalore,500,100,29, Today
+410,Dr. Rajkumar G.C,Dentist,28,Raj Kumar's Dental And Implant Centre,Basavanagudi,Bangalore,500,99,190, Today
+411,Dr. Sumanth Shetty,Dentist,24,Chisel Dental,Koramangala,Bangalore,500,97,2602, Today
+412,Dr. Prafulla Biradar,Dentist,22,Impressions Dental Specialities,Sahakaranagar,Bangalore,500,99,79, Today
+413,Dr. M J Murali,Dentist,26,All Care Dental Centre - since 1969,Indiranagar,Bangalore,500,99,102, Today
+414,Dr. Pallavi.S.K,Dentist,21,Raj Kumar's Dental And Implant Centre,Basavanagudi,Bangalore,500,100,1, Today
+417,Dr. Yugandhar,Dentist,21,National Dental Care,KPHB,Hyderabad,500,95,826, Today
+418,Dr. Ershad,Dentist,15,Star Multi Speciality Dental Clinic,Madinaguda,Hyderabad,300,100,35, Today
+419,Dr. Anil Kumar,Dentist,20,Dr. Anil's Superspeciality Dental Hospital And Implant Center,Boduppal,Hyderabad,500,98,131, Today
+420,Dr. Sri Sujan Suryadevara,Dentist,15,S S Dental Care,Sanath Nagar,Hyderabad,500,100,58, Today
+421,Dr. Nadeem Qadri,Dentist,14,Dentadura A Multi Speciality Dental Center,Tolichowki,Hyderabad,500,99,167, Today
+422,Dr. Jothi Ratnam,Dentist,11,Teethmate Speciality Dental Clinic,Padmarao Nagar,Hyderabad,500,86,1, Today
+423,Dr. Anoop Chowdary,Dentist,14,Expert Dental Care,Chanda Nagar,Hyderabad,500,97,18, Today
+424,Dr. Irfan Md,Dentist,18,Facios Clinic,Gachibowli,Hyderabad,400,100,1, Today
+425,Dr. Ritesh Rajan,Dentist,24,Kishore's Dental Clinic,Madinaguda,Hyderabad,0,97,24, Today
+426,Dr. S Sreedhar Reddy,Dentist,24,Esthetix Dental ,West Marredpally,Hyderabad,500,100,104, Today
+429,Dr. M.Srikanth,Dentist,22,Smile Solutions Family Dentistry,Chromepet,Chennai,500,98,585, Today
+430,Dr. B J Barun,Dentist,19,Dr. Barun's Multispeciality Dental Centre,Velachery,Chennai,600,98,358, Today
+431,Dr. D.Revathi,Dentist,16,Dr.Revathi's Dental Clinic,Kattupakkam,Chennai,500,99,139, Today
+432,Dr. Prem Kumar,Dentist,16,Just Smile Dental & ENT Specialities,Madipakkam,Chennai,500,97,48, Today
+433,Dr. Mareeswari,Dentist,15,A2Z Dental Care,Pallikaranai,Chennai,500,99,164, Today
+434,Dr. N Sankar Ram Mithran,Dentist,15,Dr. Mithran's Multispeciality Dental Clinic,Chromepet,Chennai,500,98,113, Today
+435,Dr. K. Nithya Pandiarajan,Dentist,10,Sparkle Dental,Virugambakkam,Chennai,200,100,7, Today
+436,Dr. Pavani Thota,Dentist,12,Dhantham Dental Hospital International,Nungambakkam,Chennai,1800,97,25, Today
+437,Dr. Vikram,Dentist,10,Dr.Vikram's Dental & General Clinic,Ashok Nagar,Chennai,500,100,2, Today
+438,Dr. B.Ssneha Vignesh,Dentist,7,VIGNESH'S DENTAL ZONE,Gowrivakkam,Chennai,150,100,1, Today
+441,Dr. Sanket Mehta,Dentist,18,Smile Studio Dental Clinic,Matunga,Mumbai,500,99,449, Today
+442,Dr. Riddhi Rathi,Dentist,16,OrthoSquare,Vileparle East,Mumbai,300,99,819, Today
+443,Dr. Nikhil Surana,Dentist,14,Bright 32 Dental Care & Orthodontic Centre,Kandivali East,Mumbai,500,96,27, Today
+444,Dr. Jayna Shah,Dentist,34,Smilee Dental Care,Powai,Mumbai,500,100,33, Today
+445,Dr. Karanjit Singh Chaudhary,Dentist,19,Envisage Speciality Dental Clinic,Chembur,Mumbai,800,100,164, Today
+446,Dr. Abhishek Ramesh Chauhan,Dentist,15,Sharan Hospital,Ghatkopar West,Mumbai,1000,98,34, Today
+447,Dr. Dipika Bharani,Dentist,14,Dentalfix Clinic,Vileparle East,Mumbai,500,99,128, Today
+448,Dr. Rohan Virani,Dentist,17,Trisa Dental Solutions,Mulund West,Mumbai,500,95,149, Today
+449,Dr. Adil Gandevivala,Dentist,15,Expressions Maxillofacial Surgery and Dentistry,Tardeo,Mumbai,500,99,45, Today
+450,Dr. Reema Nanavati,Dentist,15,Nanavati's Dental Wellness,Borivali,Mumbai,500,100,22, Today
+453,Dr. Gauri Babhulgaonkar,Dentist,11,Root Canal Specialist & Implant Dental Clinic,Kharadi,Pune,500,100,36, Today
+454,Dr. Prajakta More,Dentist,14,Avani Multispeciality Dental Clinic,Dhanori,Pune,300,92,62, Today
+455,Dr. Ratnika Agarwal,Dentist,11,Dr. Ratnika's - Smile Up Dental Clinic & Implant Center,Kharadi,Pune,500,98,506, Today
+456,Dr. Puja Bansal,Dentist,24,Prudent International Health Clinic,Kalyani Nagar,Pune,500,97,681, Today
+457,Dr. Makarand Thoke,Dentist,26,Om Happy Teeth Dental Clinic,Pimple Saudagar,Pune,500,97,27, Today
+458,Dr. Ganesh,Dentist,14,DentalTree (Implants - Cosmetics - Lasers),Aundh,Pune,500,97,273, Today
+459,Dr. Awanti,Dentist,20,Dr AWANTHI Cosmetic and Implant Clinic,Wadgaon Sheri,Pune,500,96,188, Today
+460,Dr. Surbhi Bhatia L,Dentist,18,Lifeberries Health,Viman Nagar,Pune,500,97,370, Today
+461,Dr. Shardul Sontakke,Dentist,23,Smile Gallery Dental Care Centre,Kothrud,Pune,500,99,142, Today
+462,Dr. Hemant Patil,Dentist,16,Laconic Dental Studio,Pimple Saudagar,Pune,500,93,680, Today
+465,Dr. Harsh Goyal,Dentist,14,Dr Goyals Dental Center and Implant Centre,Janakpuri,Delhi,500,100,288, Today
+466,Dr. Ritesh,Dentist,18,Ritesh Dental Clinic,Vasant Kunj,Delhi,500,99,113, Today
+467,Dr. Rohit Yadav,Dentist,11,Cusp Dental,Dwarka Sector 23,Delhi,500,100,116, Today
+468,Dr. Namita Karna,Dentist,25,Max Multi Speciality Centre - Panchsheel Park,Panchsheel Park,Delhi,1000,33,2, Today
+469,Dr. Niraj Rampal,Dentist,46,Dr. Rampal Dental Clinic,Greater Kailash Part 2,Delhi,1500,100,20, Today
+470,Dr. Kapil Gandhi,Dentist,26,Dental Masters,Kalkaji,Delhi,800,98,130, Today
+471,Dr. Manish Kalra,Dentist,26,Dr. Kalra's Dental & Orthodontic Clinic,Lajpat Nagar,Delhi,700,97,95, Today
+472,Dr. Vinod Khanna,Dentist,14,Complete Dental Care,Ramesh Nagar,Delhi,500,98,133, Today
+473,Dr. Mansi Khatri,Dentist,11,Crown And Roots,South Extension 2,Delhi,500,100,10, Today
+474,Dr. Aval Luthra,Dentist,22,Dental Arche,Vasant Kunj,Delhi,700,97,43, Today
+477,Dr. Nikita Parasrampuria,Dentist,10,Smile Studio Dental Clinic,Lake Town,Kolkata,500,92,32, Today
+478,Dr. Sanjoy Sahoo,Dentist,13,B. Bharti Specialty Dental Clinic,Gariahat,Kolkata,500,100,132, Today
+479,Dr. Saumyadeep Ghosh,Dentist,7,Novo Smile Dental Care,Dumdum Road,Kolkata,500,100,2, Today
+480,Dr. Saurabh Gupta,Dentist,12,Being Dentist Maxillofacial and Dental Implants Clinic,Kankurgachi,Kolkata,500,99,140, Today
+481,Dr. Vrinda Agarwal,Dentist,5,Orchidd Dental Wellness,Park Street,Kolkata,500,100,11, Today
+482,Dr. Ankur Gupta,Dentist,18,Dentistree,Park Street,Kolkata,500,98,115, Today
+483,Dr. Radhika V Goel,Dentist,18,Dentotsav Dental Clinic,Kasba,Kolkata,1000,97,170, Today
+484,Dr. Chetna Tikmani,Dentist,12,Ur's Toothfully Dental Clinic,New Alipore,Kolkata,1000,80,2, Today
+485,Dr. Arimeeta Bhadra,Dentist,8,Teeth Care Multispeciality Dental Clinic,Rajarhat,Kolkata,500,97,170, Today
+486,Dr. Somik Bose,Dentist,15,Orange Dental Clinic,Bhawanipore,Kolkata,500,96,40, Today
+573,Dr. Phanindra V V,Ayurveda,15,Narayana Ayurveda Kuteeram,Banashankari,Bangalore,400,99,273, Today
+574,Dr. Tanmaya,Ayurveda,15,Siddhanta Ayurveda,Marathahalli,Bangalore,400,95,53, Today
+575,Dr. Vinay,Ayurveda,14,Varaprada Ayurvedic Centre,Basavanagudi,Bangalore,300,99,155, Today
+576,Dr. Rachana Ghatol-Shetty,Ayurveda,23,Nurture Multispeciality Clinic,Panathur,Bangalore,500,97,51, Today
+577,Dr. Mone Damodar,Ayurveda,23,Kurias Earth Ayurveda Multispeciality Hospital,Banashankari 1st Stage,Bangalore,750,97,5, Today
+578,Dr. Chaithralaxmi.K,Ayurveda,15,Shrirama Ayur Clinic,Malleswaram,Bangalore,200,100,61, Today
+579,Dr. Maitry H Shettigar,Ayurveda,16,Maitri Ayurveda,Singasandra,Bangalore,300,100,8, Today
+580,Dr. Pepsy Jose,Ayurveda,11,Ayur Rhythm Holistic Clinic,JP Nagar 8 Phase,Bangalore,500,100,2, Today
+581,Dr. Prashanth S Acharya,Ayurveda,27,Arth Ayurveda Hospitals,HAL 2nd Stage,Bangalore,500,67,1, Today
+582,Dr. Geetika Thakur,Ayurveda,15,Keva Ayurveda,Whitefield,Bangalore,400,100,9, Today
+585,Dr. S Sarangapani,Ayurveda,43,Sai Bharadwaja Advanced Ayurveda Hospital,Erragadda,Hyderabad,500,99,146, Today
+586,Dr. C Narmada,Ayurveda,23,Tejas Classical Ayurveda,Shaikpet,Hyderabad,500,100,13, Today
+587,Dr. Anupama Uppuluri,Ayurveda,24,Snigdha Ayurvedic Hospital,Bachupally,Hyderabad,500,100,29, Today
+588,Dr. Rajya Lakshmi,Ayurveda,27,Ayurkalpa,Kondapur,Hyderabad,500,100,23, Today
+589,Dr. M. Narasimha,Ayurveda,24,S.B. Ayurvedic Speciality Clinic,Ameerpet,Hyderabad,500,88,62, Today
+590,Dr. Rashmi BV,Ayurveda,20,Charaka Ayurveda,Erragadda,Hyderabad,500,100,17, Today
+591,Dr. Sushma Shivkumar M,Ayurveda,13,SWAMI CLINIC,Yousufguda,Hyderabad,550,80,3, Today
+592,Dr. Priti Thakre,Ayurveda,21,Chaudhari Clinic-Ayurvedic Infertility Treatment Center,KPHB,Hyderabad,500,100,9, Today
+593,Dr. Sai Deepthi T,Ayurveda,8,MedExpress Clinic,Srinagar Colony,Hyderabad,450,100,1, Today
+594,Dr. Alivelu Manga,Ayurveda,25,JIVA Ayurveda,Himayat Nagar,Hyderabad,299,93,9, Today
+597,Dr. Rajesh Verma,Ayurveda,28,Bliss Medicare Centre,Vadapalani,Chennai,600,95,161, Today
+598,Dr. Poonam Verma,Ayurveda,27,Bliss Medicare Centre,Vadapalani,Chennai,600,96,17, Today
+599,Dr. T. Vamsi Latha,Ayurveda,21,Shree Ayurvedic Multispeciality Hospital,West Mambalam,Chennai,500,98,17, Today
+600,Dr. M Vishnupriya,Ayurveda,15,Aditti Ayurveda And Panchakarma Clinic,Selaiyur,Chennai,300,100,139, Today
+601,Dr. D Jayashree,Ayurveda,39,Shree Ayurvedic Multispeciality Hospital,West Mambalam,Chennai,750,97,108, Today
+602,Dr. Sruthy Sreekumar,Ayurveda,12,Shree Ayurvedic Multispeciality Hospital,West Mambalam,Chennai,500,100,1, Today
+603,Dr. D Srikrishna,Ayurveda,12,Shree Ayurvedic Multispeciality Hospital,West Mambalam,Chennai,500,98,76, Today
+604,Dr. B.Krishnapriya,Ayurveda,13,ALM Ayush Centres,Ambattur,Chennai,250,100,1, Today
+605,Dr. M.Aswathi,Ayurveda,5,ALM AYUSH Centres,Kotturpuram,Chennai,250,100,1, Today
+606,Dr. G.Arunagiri,Ayurveda,17, ALM Ayush,OMR Road,Chennai,250,100,1, Today
+609,Dr. Arun Kumar,Ayurveda,35,Kaya Kalp International Sex & Health Clinics,Dadar West,Mumbai,800,97,515, Today
+610,Dr. Sunita Jonwal,Ayurveda,15,Dr. Jonwal's NapAyurVeda Panchkarm & Wellness,Kandivali West,Mumbai,800,90,132, Today
+611,Dr. Amit Aroskar,Ayurveda,24,Dr. Aroskar's Aamod Ayurvedic Wellness Clinic,Borivali West,Mumbai,800,100,25, Today
+612,Dr. Nitin Goradia,Ayurveda,31,Goradia Ayurvedic Clinic.,Grant Road,Mumbai,1500,97,67, Today
+613,Dr. Prajakta Rajurkar,Ayurveda,17,Jiva Ayurveda Clinic,Andheri West,Mumbai,299,100,2, Today
+614,Dr. Varsha Gupta,Ayurveda,15,Herbal Ayurvedic & PanchKarma Centre,Ghatkopar West,Mumbai,500,96,25, Today
+615,Dr. Jyoti R Jangale,Ayurveda,15,Shree Clinic Ayurveda and Panchkarma Center,Mulund West,Mumbai,800,100,46, Today
+616,Dr. Ketki Trivedi,Ayurveda,37,Ayushakti Ayurved  Health Centre,Vileparle West,Mumbai,300,100,1, Today
+617,Dr. Mahajan Deepak Sevakram,Ayurveda,15,Ayushakti Ayurved Health Centre,Dadar,Mumbai,300,100,1, Today
+618,Dr. Manasi Shreyas Joshi,Ayurveda,12,Maple Polyclinic,Mulund West,Mumbai,500,100,8, Today
+621,Dr. Manoj Madhukar Deshpande,Ayurveda,27,Kalpataru Ayurvediya Chikitsalaya,Shivajinagar,Pune,500,97,119, Today
+623,Dr. Madhavi Satav Chavan,Ayurveda,16,Ayuspanda Ayurvedic And Panchakarma Centre,Pimpri-Chinchwad,Pune,300,100,8, Today
+624,Dr. Hemant Chavan,Ayurveda,16,Ayuspanda Ayurvedic Clinic And Panchakarma Centre,Pimple Saudagar,Pune,200,95,60, Today
+625,Dr. Sangeeta Waghmode,Ayurveda,22,Sanjeevani Ayurved And Panchkarma Center,Sinhagad Road,Pune,300,99,155, Today
+626,Dr. Shruty Dumbre,Ayurveda,30,Dr. Shruty Dumbre's Shatayu Ayurveda And Panchakar,Sinhagad Road,Pune,500,97,20, Today
+627,Dr. Priti Mangesh Deshmukh,Ayurveda,18,Pranav Ayurveda Panchakarma Clinic,Pimpri-Chinchwad,Pune,400,99,278, Today
+628,Dr. Namrata Shah,Ayurveda,11,Ayurveda Clinic Center,Aundh,Pune,200,100,159, Today
+629,Dr. Prajakta Kale,Ayurveda,18,Nihareeka Ayurveda Clinic & Panchakarma Centre,Kharadi,Pune,375,92,50, Today
+630,Dr. Shailesh Phalle,Ayurveda,12,Dr. Phalle's Ayusanjivani Speciality Clinic And Panchakarma Centre,Kharadi,Pune,350,96,91, Today
+633,Dr. Mahesh Shah,Ayurveda,54,Hakim Hari Kishan Lal Dawakhana,Patel Nagar East,Delhi,50,93,341, Today
+634,Dr. Sudha Asokan,Ayurveda,44,Dr. Sudha's Ayurveda Kendra,Safdarjung Enclave,Delhi,1200,96,105, Today
+635,Dr. Anjana Kalia,Ayurveda,22,Dr Anjana Kalia's Diet clinic,Dwarka,Delhi,1000,99,138, Today
+636,Dr. Vijay Abbot,Ayurveda,49,Hakim Hari Kishan Lal Dawakhana,Patel Nagar East,Delhi,50,82,192, Today
+637,Dr. S K Singh,Ayurveda,37,Sushruta Anorectal Institute,Rohini,Delhi,1500,89,473, Today
+638,Dr. Jyoti Arora Monga,Ayurveda,23,Dr. Monga Clinic,Lajpat Nagar,Delhi,800,87,578, Today
+639,Dr. Ajay Pal Singh,Ayurveda,15,Ajay Health Clinic,Tilak Nagar,Delhi,1500,86,126, Today
+640,Dr. Naveen CR,Ayurveda,13,Kurias Earth Multispeciality Ayurveda Hospital Pvt. Ltd.,Green Park,Delhi,1000,91,2, Today
+641,Dr. Shyla Vahab,Ayurveda,29,Amaltas Ayurveda,Dwarka Sector 13,Delhi,500,96,20, Today
+642,Dr. Vipin Kumar,Ayurveda,40,Hakim Hari Kishan Lal Dawakhana,Patel Nagar East,Delhi,50,98,72, Today
+645,Dr. Sasanka Chowdhury,Ayurveda,13,Sriveda,Rajarhat,Kolkata,800,100,23, Today
+646,Dr. Debasish Pahari,Ayurveda,28,Dirghayu Ayurveda,Thakurpukur,Kolkata,800,100,22, Today
+647,Dr. Prabhat Kumar Bal,Ayurveda,25,Sanjeeva,New Town,Kolkata,600,88,6, Today
+648,Dr. Amit Khattri,Ayurveda,14,JIVA Ayurveda Clinic,Sarat Bose Road,Kolkata,99,100,1, Today
+649,Dr. Shiv Prakash Singh,Ayurveda,16,Ved Hive Ayurveda,Nagerbazar,Kolkata,400,100,1, Today
+650,Dr. Chiranjit Bhowink,Ayurveda,9,JIVA Ayurveda Clinic,Sarat Bose Road,Kolkata,299,100,1, Today
+651,Dr. Konika Anand,Ayurveda,6,Sriveda,Rajarhat,Kolkata,500,100,1, Today
+652,Dr. Nazrul Islam,Ayurveda,29,Tarangini Nursing Home,Behala,Kolkata,500,100,18, Today
+653,Dr. Siddhartha Sharma,Ayurveda,16,Siddha Veda Clinic,Salt Lake,Kolkata,300,100,6, Today
+654,Dr. Samarjit Ghatak,Ayurveda,18,Rudram Ayurveda Clinic,Bansdroni,Kolkata,400,100,1, Today
+1049,Dr. Vinay Anvekar,Dentist,20,Vinayaka Sai Dental Clinic,BTM Layout 1st Stage,Bangalore,200,97,189, Today
+1050,Dr. T. Ramakrishna,Dentist,25,Dental Profiles,JP Nagar 5 Phase,Bangalore,500,95,362, Today
+1051,Dr. Utkarsha Lokesh,Dentist,25,Dr. Uthkarshas Esthetic Centre,Malleswaram,Bangalore,500,98,296, Today
+1052,Dr. Manjunath G S,Dentist,21,Embassy Dental,Kalyan Nagar,Bangalore,500,99,159, Today
+1053,Dr. Idris Md,Dentist,14,CLINIQUE - Internationale,Jayanagar,Bangalore,500,99,139, Today
+1054,Dr. Raghavendra K,Dentist,26,Raghav Dental Care Centre,Rajajinagar,Bangalore,500,94,34, Today
+1055,Dr. Anwar Syed,Dentist,14,Perfecto Dental and Implant Clinic,Panathur,Bangalore,500,99,251, Today
+1056,Dr. Srihari  V,Dentist,20,Prodent Professional Dental Care,KR Puram,Bangalore,500,99,187, Today
+1057,Dr. Aditi Garg,Dentist,15,Elite Esthetics and Dental Clinic,HSR Layout,Bangalore,500,100,16, Today
+1058,Dr. Suhas Prabhakar,Dentist,14,Kamal Smiles Dental Care,Bannerghatta Road,Bangalore,500,98,21, Today
+1060,Dr. Surendra Kumar Alluri,Dentist,28,Shambhala Dental Spa and Wholeness,Kokapet,Hyderabad,500,99,359, Today
+1061,Dr. K. Arjun,Dentist,26,Tarnaka Dental Clinic,Tarnaka,Hyderabad,500,98,154, Today
+1062,Dr. Subbaiah Naidu,Dentist,13,Indo American Dental Hospital,Ameerpet,Hyderabad,500,100,34, Today
+1063,Dr. Nagaraju Tanneru,Dentist,17,Veeras Clinic,Nagole,Hyderabad,500,100,4, Today
+1064,Dr. Sri Sujan Suryadevara,Dentist,15,S S Dental Care,Sanath Nagar,Hyderabad,500,100,58, Today
+1065,Dr. Deepak Pusa,Dentist,7,Padmavathi  Dental Clinic   & Maxillofacial Center,Kapra,Hyderabad,500,100,33, Today
+1066,Dr. Sowjanya Kalwagadda,Dentist,13,Smile Makers International,Kondapur,Hyderabad,500,100,1, Today
+1067,Dr. Sudhakar,Dentist,16,Galaxy Dental Care Creating Smiles,Kondapur,Hyderabad,500,100,280, Today
+1068,Dr. J. Sanjeev,Dentist,18,Siri Dental-KARMANGHAT,LB Nagar,Hyderabad,500,100,1, Today
+1069,Dr. Venkatesh,Dentist,35,Apollo Dental,Jubilee Hills,Hyderabad,500,100,1, Today
+1071,Dr. Sriraman K,Dentist,13,Gem 32 Dental Spa,Perungudi,Chennai,250,100,27, Today
+1072,Dr. Ajay Mohan,Dentist,14,"Impressions Dental, Cosmetic, Craniofacial Centre",Mylapore,Chennai,500,100,94, Today
+1073,Dr. Mathan Mohan,Dentist,24,Apollo Speciality Hospital,Vanagaram,Chennai,800,100,3, Today
+1074,Dr. Veeraragavan,Dentist,8,SmileMakers Multispeciality Dental Clinic and Implant Centre,Selaiyur,Chennai,500,100,13, Today
+1075,Dr. Pradeep S,Dentist,13,Oncodent,Teynampet,Chennai,500,100,1, Today
+1076,Dr. Ashwin Nehrudhas,Dentist,12,The Dental Office By LPM,Mylapore,Chennai,500,100,1, Today
+1077,Dr. K.R. ARUN VIGNESH,Dentist,9,Mesrad Dental Surgeon,Medavakkam,Chennai,150,100,1, Today
+1078,Dr. Sujith Raj Stephen,Dentist,12,Dr. Steve's Dental Care,Valasaravakkam,Chennai,200,100,6, Today
+1079,Dr. Jeffin Jacob,Dentist,12,Gladys Dental Care,Pallikaranai,Chennai,200,100,2, Today
+1080,Dr. Raviganeshwar D,Dentist,8,Quantum Dental Clinic,Navalur,Chennai,500,100,1, Today
+1082,Dr. Abbasali Barodawala,Dentist,13,S&B Dental Specialities,Andheri West,Mumbai,500,100,19, Today
+1083,Dr. Abhishek Ramesh Chauhan,Dentist,15,Sharan Hospital,Ghatkopar West,Mumbai,1000,98,34, Today
+1084,Dr. Ashwini Bhalerao,Dentist,30,Wisdom Tooth Clinic,Andheri West,Mumbai,1000,97,260, Today
+1085,Dr. Nitesh Motwani,Dentist,15,Smile Concepts Multi Speciality Dental Clinic,Andheri West,Mumbai,500,98,125, Today
+1086,Dr. Hitesh Singhavi,Dentist,8,Fortis Hospital,Mulund West,Mumbai,2000,100,1, Today
+1087,Dr. Mayuri Jobanputra Shah,Dentist,13,ToothFix DentoFacial Clinic,Borivali West,Mumbai,300,97,55, Today
+1088,Dr. Vividha Singhania,Dentist,14,Garden Multispeciality Dental Clinic,Mahim,Mumbai,500,100,188, Today
+1089,Dr. Rahul N. Patil,Dentist,16,Om Dental Clinic,Chandivali,Mumbai,500,94,46, Today
+1090,Dr. Adil Gandevivala,Dentist,15,Expressions Maxillofacial Surgery and Dentistry,Tardeo,Mumbai,500,99,45, Today
+1091,Dr. Angad Shetye,Dentist,13,The Smile Hub Dental Orthodontic  And Maxillofacial Clinic,Kandivali West,Mumbai,500,100,14, Today
+1093,Dr. Ankush R. Agrawal,Dentist,18,"Dentsee Dental Clinic, Laser and Implant Centre",Wakad,Pune,500,97,46, Today
+1094,Dr. Mugdha Budhkar,Dentist,11,Dr Mugdha's Dental Studio,Warje,Pune,500,100,16, Today
+1095,Dr. Laxman Revansidh Malkunje,Dentist,14,Deccan Multispeciality Hardikar Hospital,Shivajinagar,Pune,600,100,1, Today
+1096,Dr. Vikram Deshmukh,Dentist,25,Shree Sai Samarth Dental Clinic & Implant Center,Nanded City,Pune,500,94,51, Today
+1097,Dr. Bhawana Singh,Dentist,17,Global Dental Care,Kharadi,Pune,300,99,257, Today
+1098,Dr. Rahul R. Bagrecha,Dentist,18,Teeth and Faces Dental Clinic and Implant Center,Kharadi,Pune,500,99,30, Today
+1099,Dr. Tejashree Pangare,Dentist,13,Mankars Dental Clinic and Implant Centre,Lohegaon,Pune,500,94,12, Today
+1100,Dr. Anjali Raheja,Dentist,8,Teethzz Dental Clinic,Camp,Pune,400,100,2, Today
+1101,Dr. Sagar Jangam,Dentist,13,S.R Sun Dental (Orthodontics & Orofacial Surgery Centre),Sinhagad Road,Pune,500,100,5, Today
+1102,Dr. Nakul Parasharami,Dentist,11,Canopy Dental Care and Implant Centre,Baner,Pune,300,100,10, Today
+1104,Dr. Avantika Sharma,Dentist,10,JR Dental Clinic,Dwarka Sector 12,Delhi,500,100,18, Today
+1105,Dr. Shiv P Mahapatra,Dentist,11,Gloire A Dieu Dental & Implant Clinic,Dwarka Sector 22,Delhi,500,94,25, Today
+1106,Dr. Praveen Yadav,Dentist,12,Dentaris -A Specialist Dental Clinic,Uttam Nagar,Delhi,500,100,9, Today
+1107,Dr. Manju Kaushik,Dentist,30,Dr. Soni's Dental Clinic,Lajpat Nagar,Delhi,500,99,196, Today
+1108,Dr. Jitender Dabas,Dentist,14,Dental Craft Multispeciality Dentistry,Dwarka Sector 6,Delhi,500,100,7, Today
+1109,Dr. Surya Prakash Bharadwaj,Dentist,18,Wisdom Dental Maxillofacial & Implant Clinic,Dwarka,Delhi,500,99,487, Today
+1110,Dr. Abhishek Bhardwaj,Dentist,17,Abhirachna Dental,South Extension 1,Delhi,800,98,114, Today
+1111,Dr. Abhimanyu Sharma,Dentist,15,The Tooth Dental and Orofacial Clinic,Vasundhra Enclave,Delhi,500,100,14, Today
+1112,Dr. Anuja,Dentist,25,"Agarwal Orthopaedic, Dental & Diagnostic Center",Chitra Vihar,Delhi,400,100,3, Today
+1113,Dr. Lalit Kumar,Dentist,18,LaDivya Centre for Implants & Oral Health Care,Vikas Puri,Delhi,500,98,39, Today
+1115,Dr. Arimeeta Bhadra,Dentist,8,Teeth Care Multispeciality Dental Clinic,Rajarhat,Kolkata,500,97,170, Today
+1116,Dr. Ankit Khandelwal,Dentist,10,Gajanan Clinic,Bhawanipore,Kolkata,500,99,82, Today
+1117,Dr. Saurabh Gupta,Dentist,12,Being Dentist Maxillofacial and Dental Implants Clinic,Kankurgachi,Kolkata,500,99,140, Today
+1118,Dr. Oishee Mukherjee,Dentist,2,AMRI Hospitals,Dhakuria,Kolkata,600,100,1, Today
+1119,Dr. Siddhartha Chakraborty,Dentist,13,Charnock Hospital,Teghoria,Kolkata,1150,100,1, Today
+1120,Dr. Arka Das,Dentist,10,Face O Dent,Santoshpur,Kolkata,500,100,83, Today
+1121,Dr. Rituparna Saha,Dentist,16,Cosmedent,Gariahat,Kolkata,700,100,22, Today
+1122,Dr. Shirish Dubey,Dentist,14,Dentotsav Dental Clinic,Kasba,Kolkata,1000,90,2, Today
+1123,Dr. Rajarshi Bandyopadhyay,Dentist,30,AMRI Hospitals,Dhakuria,Kolkata,800,100,1, Today
+1124,Dr. Shamik Gope,Dentist,15,Genesis Hospital,Kasba,Kolkata,700,100,1, Today
+1140,Dr. Venu Kumari,Dermatologist,18,Dr. Venus Insititue of Skin & Hair,Chanda Nagar,Hyderabad,500,86,917, Today
+1142,Dr. Sruthi Alla,Dermatologist,12,NYRA SKIN & HAIR CLINIC,Madhapur,Hyderabad,750,97,310, Today
+1145,Dr. Shravya G,Dermatologist,17,Anceita Skin and Hair Clinic,Jubilee Hills,Hyderabad,800,92,203, Today
+1153,Dr. N. Saravanan,Homoeopath,18,Priyam Clinic,Tambaram,Chennai,300,98,775, Today
+1154,Dr. Nidhi Dube,Homoeopath,14,Dr Batra's Positive Health Clinic Pvt Ltd,Velachery,Chennai,450,100,3, Today
+1156,Dr. L Mathuvenkatesan,Homoeopath,24,Dr Batra's Positive Health Clinic Pvt Ltd,Ashok Nagar,Chennai,450,75,4, Today
+1158,Dr. M Vishnupriya,Ayurveda,15,Aditti Ayurveda And Panchakarma Clinic,Selaiyur,Chennai,300,100,139, Today
+1163,Dr. Yogesh Kalyanpad,Dermatologist,13,SkinAmour Clinic,Santacruz West,Mumbai,1000,100,368, Today
+1164,Dr. Ajay Nimbalkar,Dermatologist,12,Dermavenue Advanced Skin And Hair Clinic,Khar West,Mumbai,1200,95,67, Today
+1187,Dr. Navnit Haror,Dermatologist,10,Derma Miracle Skin And Hair Transplant Clinic,Greater Kailash Part 1,Delhi,1000,92,109, Today
+1191,Dr. Lipy Gupta,Dermatologist,18,Green Park Family Medicine Clinic,Green Park,Delhi,800,96,316, Today
+1197,Dr. Supra Paul,Homoeopath,22,Dr Batra's Positive Health Clinic Pvt Ltd,Minto Park,Kolkata,450,100,8, Today
+1198,Dr. Abhishek Chaturvedi,Homoeopath,12,Dr Batra's Positive Health Clinic Pvt Ltd,Behala,Kolkata,450,86,6, Today
+1199,Dr. Khushbu Tantia,Dermatologist,10,La Derma Skin & Hair Clinic,Salt Lake,Kolkata,600,90,47, Today
+1201,Dr. Chinmay Mahanta,Homoeopath,19,Dr Batra's Positive Health Clinic Pvt Ltd,Kolkatta,Kolkata,450,100,1, Today
+1244,Dr. Kukreja A. Kalani,Homoeopath,26,Kent Homeopathy Clinic,Powai,Mumbai,500,98,341, Today
+1258,Dr. Geeta N Parwani,Homoeopath,27,Healing Touch Multispeciality Clinic ,Viman Nagar,Pune,800,95,93, Today
+1260,Dr. Vaseem Choudhary,Homoeopath,14,Homeo Care Clinic,Hadapsar,Pune,300,92,280, Today
+1261,Dr. Rajshree Pokharna,Homoeopath,34,Rohan Clinic,Kharadi,Pune,500,95,41, Today
+1278,Dr. Supra Paul,Homoeopath,22,Dr Batra's Positive Health Clinic Pvt Ltd,Minto Park,Kolkata,450,100,8, Today
+1279,Dr. Abhishek Chaturvedi,Homoeopath,12,Dr Batra's Positive Health Clinic Pvt Ltd,Behala,Kolkata,450,86,6, Today
+1280,Dr. Chinmay Mahanta,Homoeopath,19,Dr Batra's Positive Health Clinic Pvt Ltd,Kolkatta,Kolkata,450,100,1, Today
+1281,Dr. Shahid Shaikh,Homoeopath,18,Dr Batra's Positive Health Clinic Pvt Ltd,Salt Lake,Kolkata,450,100,1, Today
+1286,Dr. Shambulingaiah S. Hiremath,Ayurveda,38,Shree  Dhanvantari Ayurveda Hospital,Rajajinagar,Bangalore,250,98,609, Today
+1287,Dr. Anuja Marawar,Ayurveda,23,Keva Ayurveda,Whitefield,Bangalore,450,95,72, Today
+1288,Dr. Phanindra V V,Ayurveda,15,Narayana Ayurveda Kuteeram,Banashankari,Bangalore,400,99,273, Today
+1289,Dr. Kamal Bhalla,General Physician,26,Manipal Hospital,Jayanagar 9 Block,Bangalore,650,85,9, Today
+1290,Dr. Vinay,Ayurveda,14,Varaprada Ayurvedic Centre,Basavanagudi,Bangalore,300,99,155, Today
+1291,Dr. Sunil S Bohra,General Physician,22,Fortis Hospital,Richmond Town,Bangalore,600,95,46, Today
+1292,Dr. Girikumar Venati,General Physician,16,Fortis Hospital,Bannerghatta Road,Bangalore,850,91,26, Today
+1294,Dr. Prabha Ramadorai,General Physician,25,Nano Hospitals,Hulimavu,Bangalore,500,89,41, Today
+1295,Dr. Anilkumar A Kustagi,General Physician,18,Fortis Hospital,Bannerghatta Road,Bangalore,850,78,26, Today
+1297,Dr. K Sandeep Reddy,General Physician,15,Pro Health Multispecialty Clinic,Manikonda,Hyderabad,500,77,26, Today
+1298,Dr. P. Ramu,General Physician,27,Jayaa Hospital,Miyapur,Hyderabad,500,93,50, Today
+1299,Dr. Meka Satyanarayana,General Physician,41,Aswini Clinic,Kukatpally,Hyderabad,900,96,338, Today
+1301,Dr. Sharath Chandra,General Physician,11,Health Care 360 Clinics,Santosh Nagar,Hyderabad,800,100,6, Today
+1302,Dr. Neehar Potluri,General Physician,23,Neehar Neuro Centre,Kukatpally,Hyderabad,500,98,449, Today
+1304,Dr. Murali Yelchuri,General Physician,17,Srikara Hospitals,Miyapur,Hyderabad,600,92,15, Today
+1305,Dr. D.Uma Sreedevi,General Physician,27,Aster Prime Hospital,Ameerpet,Hyderabad,700,80,3, Today
+1306,Dr. S Sarangapani,Ayurveda,43,Sai Bharadwaja Advanced Ayurveda Hospital,Erragadda,Hyderabad,500,99,146, Today
+1309,Dr. Rajesh Verma,General Physician,28,Bliss Medicare Centre,Vadapalani,Chennai,600,95,161, Today
+1310,Dr. Pravin K Aggarwal,General Physician,42,Fortis Malar Hospital,Adyar,Chennai,700,85,5, Today
+1311,Dr. Poonam Verma,Ayurveda,27,Bliss Medicare Centre,Vadapalani,Chennai,600,96,17, Today
+1312,Dr. Sheethal Suresh,General Physician,30,Fortis Malar Hospital,Adyar,Chennai,500,80,6, Today
+1316,Dr. Raj Madhangi,General Physician,10,Apollo Spectra Hospital,Alwarpet,Chennai,700,100,1, Today
+1317,Dr. Ananth Padmanaban,General Physician,42,Fortis Malar Hospital,Adyar,Chennai,700,25,6, Today
+1318,Dr. D Srikrishna,Ayurveda,12,Shree Ayurvedic Multispeciality Hospital,West Mambalam,Chennai,500,98,76, Today
+1321,Dr. Nitin R Kochar,Ayurveda,28,Gurukrupa Ayurvedic Clinic,Goregaon West,Mumbai,2000,96,108, Today
+1322,Dr. Sunita Jonwal,Ayurveda,15,Dr. Jonwal's NapAyurVeda Panchkarm & Wellness,Kandivali West,Mumbai,800,90,132, Today
+1323,Dr. Sanjay Shah,General Physician,38,Fortis Hospital,Mulund West,Mumbai,1500,87,10, Today
+1324,Dr. Anshudeep Dodake,General Physician,12,Health Omega Clinic,Parel,Mumbai,500,100,18, Today
+1325,Dr. Ram Krishna Modi,General Physician,45,Fortis Hospital,Mulund West,Mumbai,1500,69,7, Today
+1326,Dr. Pradip Padamsi Shah,General Physician,43,Fortis Hospital,Mulund West,Mumbai,1500,69,8, Today
+1327,Dr. Raman Shenoy,General Physician,24,Fortis Hospital,Mulund West,Mumbai,1500,100,1, Today
+1330,Dr. Anil  Bhoraskar,General Physician,45,S L Raheja Fortis Hospital,Mahim,Mumbai,4300,100,3, Today
+1333,Dr. Arunesh Dutt Upadhyay,General Physician,37,Dr. Upadhyay's Clinic,Tingare Nagar,Pune,750,96,252, Today
+1334,Dr. Pramod B. Umarji,General Physician,46,Umarji Mother & Child Care,Baner,Pune,600,88,14, Today
+1335,Dr. Prashant Daundkar Patil,Ayurveda,18,Shree Ayurved and Panchakarma Hospital,Chandan Nagar,Pune,350,88,60, Today
+1336,Dr. Rajeev Nambiar,Ayurveda,31,Dr. Nambiar's Advanced Ayurvedic Remedy,Aundh,Pune,500,98,77, Today
+1337,Dr. Pradeep R Chaudhari,Ayurveda,15,Sai Sparsh Aayurved Clinic and Panchakarma Therapies,Baner,Pune,400,100,4, Today
+1338,Dr. Adesh Karwa,Ayurveda,20,Ayurveda Clinic,Aundh,Pune,500,99,162, Today
+1339,Dr. Mukesh Mahajan,General Physician,16,Phoenix Speciality Clinic,Keshav Nagar,Pune,400,98,49, Today
+1340,Dr. Deepa Karwa,Ayurveda,15,Ayurveda Clinic,Aundh,Pune,500,99,100, Today
+1341,Dr. Gopal Jaju,General Physician,12,Om Clinic,Kharadi,Pune,500,98,25, Today
+1346,Dr. Sudha Asokan,Ayurveda,44,Dr. Sudha's Ayurveda Kendra,Safdarjung Enclave,Delhi,1200,96,105, Today
+1347,Dr. Vivek Pal Singh,General Physician,18,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1800,100,1, Today
+1348,Dr. Hari Kumar Yadav,General Physician,16,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,800,100,1, Today
+1349,Dr. Amarpreet Singh Riar,General Physician,10,Aman Medical Clinic,Dwarka,Delhi,1000,96,505, Today
+1352,Dr. Sanchayan Roy,General Physician,25,Health First Wellness Centre,CR Park,Delhi,800,90,88, Today
+1353,Dr. Anirban Biswas,General Physician,21,Biswas Heart And Mind Clinic,CR Park,Delhi,1000,90,87, Today
+1354,Dr. Alok Joshi,General Physician,40,Max Super Speciality Hospital,Shalimar Bagh,Delhi,800,100,4, Today
+1356,Dr. Saibal Moitra,General Physician,26,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,1000,69,21, Today
+1357,Dr. Amitabha Saha,General Physician,22,AMRI Hospitals,Mukundapur,Kolkata,1200,73,9, Today
+1360,Dr. Shyama Prasad Roy,General Physician,37,Binapani Doctor's Chamber,Jadavpur,Kolkata,700,79,8, Today
+1361,Dr. Sandip Rungta,General Physician,23,Mansa Sheel,Beadon Street,Kolkata,700,99,312, Today
+1362,Dr. Sasanka Chowdhury,Ayurveda,13,Sriveda,Rajarhat,Kolkata,800,100,23, Today
+1363,Dr. Sourav Dhara,General Physician,13,Allura Aesthestic clinic & Diagnostics,Kolkata Airport,Kolkata,600,100,1, Today
+1364,Dr. Debasish Pahari,Ayurveda,28,Dirghayu Ayurveda,Thakurpukur,Kolkata,800,100,22, Today
+1365,Dr. Prabhat Kumar Bal,Ayurveda,25,Sanjeeva,New Town,Kolkata,600,88,6, Today
+1411,Dr. Prashant Dinesh,General Physician,21,Dr. Prashant's Clinic,Ulsoor,Bangalore,600,99,207, Today
+1412,Dr. Leelamohan PVR,General Physician,14,Padithem Health Care,HSR Layout,Bangalore,750,90,517, Today
+1413,Dr. Shivaram HR,General Physician,22,Viveks Multi Speciality Clinic & Diagnostics,Kanakpura Road,Bangalore,600,96,266, Today
+1414,Dr. Malathi Ramesh,General Physician,31,Dr. Mercy's  Clinic,HSR Layout,Bangalore,500,98,263, Today
+1415,Dr. Dhananjay Bhaskarachrar,General Physician,22,Dinka Multispeciality Clinic and Center for Diabetes,Bommanahalli,Bangalore,500,96,48, Today
+1416,Dr. Uma. M,General Physician,14,Jessi's Clinic,Electronics City,Bangalore,500,98,219, Today
+1417,Dr. Sunil Havannavar,General Physician,20,Manipal Hospital,Sarjapur Road,Bangalore,700,88,25, Today
+1418,Dr. Dwijendra Prasad,General Physician,22,Prakriya Hospitals,Nagasandra,Bangalore,400,81,40, Today
+1419,Dr. Ravishankar Reddy C. R.,General Physician,30,Marvel Multispeciality Hospital,Koramangala 1 Block,Bangalore,1000,88,240, Today
+1420,Dr. Rajendra Prasad,General Physician,36,Apollo Clinic,Indiranagar,Bangalore,650,60,50, Today
+1422,Dr. P. Ramu,General Physician,27,Jayaa Hospital,Miyapur,Hyderabad,500,93,50, Today
+1423,Dr. Neelwanti Soni,General Physician,20,Apollo Medical  Centre,Kondapur,Hyderabad,450,88,165, Today
+1424,Dr. Vikram Cheryala,General Physician,12,Vicinity Clinics,Kokapet,Hyderabad,600,99,208, Today
+1425,Dr. N.V. Ramana Rao,General Physician,26,Revive Clinics & Fertility Center,Nallagandla,Hyderabad,1000,99,505, Today
+1426,Dr. Murali Yelchuri,General Physician,17,Srikara Hospitals,Miyapur,Hyderabad,600,92,15, Today
+1427,Dr. Meka Satyanarayana,General Physician,41,Aswini Clinic,Kukatpally,Hyderabad,900,96,338, Today
+1428,Dr. Manish Dugar,General Physician,19,Apollo Hospitals,Jubilee Hills,Hyderabad,1000,88,10, Today
+1429,Dr. Subhash Chander,General Physician,51,New Life Speciality Homeo Care,Jeedimetla,Hyderabad,700,94,217, Today
+1430,Dr. S. Ravindra Kumar,General Physician,31,Aster Prime Hospital,Ameerpet,Hyderabad,500,75,6, Today
+1431,Dr. Venkatesh Billakanti,General Physician,15,Relief Clinic,Manikonda,Hyderabad,500,86,35, Today
+1434,Dr. Magdum Bathusha,General Physician,9,Dr.Rohith's clinic,Pallavaram,Chennai,300,100,49, Today
+1435,Dr. Hariharan V.S,General Physician,20,Gleneagles Global Health City,Perumbakkam,Chennai,500,86,7, Today
+1436,Dr. T. Vijay,General Physician,25,Dr. Vijay's Hospital,Mogappair East,Chennai,400,99,353, Today
+1437,Dr. Rajesh Verma,General Physician,28,Bliss Medicare Centre,Vadapalani,Chennai,600,95,161, Today
+1438,Dr. Pravin K Aggarwal,General Physician,42,Fortis Malar Hospital,Adyar,Chennai,700,85,5, Today
+1439,Dr. Janani Karthik,General Physician,12,Dr. Janani'S Diabetes Clinic,Alwarpet,Chennai,400,98,84, Today
+1440,Dr. Sheethal Suresh,General Physician,30,Fortis Malar Hospital,Adyar,Chennai,500,80,6, Today
+1441,Dr. Spoorthi Arun Velagapalli,General Physician,21,Promed Hospital,Kottivakkam,Chennai,750,100,17, Today
+1442,Dr. Saravanan Lakshmanan,General Physician,24,GSSSS Clinics,Kotturpuram,Chennai,400,89,35, Today
+1443,Dr. Magesh Thirunavukkarasu,General Physician,18,Sri Radha Bai Clinic,KK Nagar,Chennai,400,98,64, Today
+1445,Dr. Kalpana B Tiwari,General Physician,12,Dr. Tiwari's Clinic,Chembur,Mumbai,600,100,32, Today
+1446,Dr. Akshay Jain,General Physician,9,Jain Diagnostic Centre,Lower Parel,Mumbai,500,99,108, Today
+1447,Dr. Shubhashree Patil,General Physician,18,Diabetes And Wellness Clinic,Andheri East,Mumbai,1300,99,244, Today
+1448,Dr. Sanjay Shah,General Physician,38,Fortis Hospital,Mulund West,Mumbai,1500,87,10, Today
+1449,Dr. Akshaya Shetty,General Physician,11,Shetty's Care Clinic,Andheri East,Mumbai,600,99,21, Today
+1450,Dr. Vaijayanti Mahajan,General Physician,24,Dr Mahajan's Clinic,Bandra East,Mumbai,1000,96,32, Today
+1451,Dr. Shradha Doshi,General Physician,12,Care2Cure Medical Services,Mulund West,Mumbai,900,100,7, Today
+1452,Dr. Shoibalini Karmokar,General Physician,3,Aceso Health Clinic,Santacruz West,Mumbai,900,95,14, Today
+1453,Dr. Vasudev,General Physician,24,Liver Gastro Endoscopy Centre,Bhandup West,Mumbai,2000,87,123, Today
+1454,Dr. Samvaad Shetty,General Physician,11,Dr.Samvaad Shetty's Clinic,Andheri East,Mumbai,1200,100,19, Today
+1456,Dr. Arunesh Dutt Upadhyay,General Physician,37,Dr. Upadhyay's Clinic,Tingare Nagar,Pune,750,96,252, Today
+1457,Dr. Narayan Survase,General Physician,26,NRS Hospital,Wakad,Pune,600,84,90, Today
+1458,Dr. Ravindra Chhajed,General Physician,28,Harsh Hospital,Market Yard,Pune,700,98,263, Today
+1459,Dr. Amit Sakaria,General Physician,19,Prudent International Health Clinic,Kalyani Nagar,Pune,600,95,217, Today
+1460,Dr. Avdhut G. Bodamwad,General Physician,11,Lopmudra Multi-speciality Hospital,Pirangut,Pune,400,97,76, Today
+1461,Dr. Manisha A Gosavi,General Physician,32,Arogya Clinic,Vishrantwadi,Pune,500,97,58, Today
+1462,Dr. Pankaj Changedia,General Physician,24,"Mamata Maternity & Heart , Diabetis Care Center",Kharadi,Pune,500,92,105, Today
+1463,Dr. Nachiket Mahindrakar,General Physician,16,We Heal Clinic,Baner,Pune,1100,95,174, Today
+1464,Dr. Milind Kulkarni,General Physician,18,Kulkarni Clinic,Vishrantwadi,Pune,600,95,99, Today
+1465,Dr. Suruchi Mandrekar,General Physician,27,Manipal Hospitals,Baner,Pune,550,95,50, Today
+1467,Dr. Yatin Kukreja,General Physician,20,Kukreja Healthcare Clinic,Lajpat Nagar 4,Delhi,650,98,148, Today
+1468,Dr. Amarpreet Singh Riar,General Physician,10,Aman Medical Clinic,Dwarka,Delhi,1000,96,505, Today
+1469,Dr. Sanchayan Roy,General Physician,25,Health First Wellness Centre,CR Park,Delhi,800,90,88, Today
+1470,Dr. Pankaj Kumar,General Physician,16,Diet Plus Minus,Dwarka Sector 9,Delhi,700,96,122, Today
+1471,Dr. Paru Sharma,General Physician,31,Dr. Paru Sharma's Clinic,Dwarka Sector 13,Delhi,600,98,87, Today
+1472,Dr. Rachna Kucheria,General Physician,31,Kucheria Clinic,Greater Kailash Part 1,Delhi,1600,95,21, Today
+1473,Dr. Pramila Srivastava,General Physician,42,Dr. Srivastava's Clinic,Defence Colony,Delhi,500,87,15, Today
+1474,Dr. Satbir Singh,General Physician,24,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1300,97,102, Today
+1475,Dr. Anil Vardani,General Physician,37,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1800,87,34, Today
+1476,Dr. Amitabh Khanna,General Physician,34,Diabetes Speciality Center,Dwarka,Delhi,1000,80,137, Today
+1479,Dr. Sandip Rungta,General Physician,23,Mansa Sheel,Beadon Street,Kolkata,700,99,312, Today
+1480,Dr. Sushmita Pal,General Physician,12,Get Healthy,New Town,Kolkata,500,95,34, Today
+1481,Dr. Shyama Prasad Roy,General Physician,37,Binapani Doctor's Chamber,Jadavpur,Kolkata,700,79,8, Today
+1482,Dr. Sourav Dhara,General Physician,13,Allura Aesthestic clinic & Diagnostics,Kolkata Airport,Kolkata,600,100,1, Today
+1483,Dr. Saibal Moitra,General Physician,26,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,1000,69,21, Today
+1484,Dr. Milan Chhetri,General Physician,39,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,1200,100,3, Today
+1485,Dr. Ram Kumar Singh,General Physician,22,IRIS Hospital,Baghajatin,Kolkata,700,100,1, Today
+1486,Dr. HIRAK  MAJUMDER,General Physician,31,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,1200,75,2, Today
+1487,Dr. Arup Kumar Sahu,General Physician,28,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,1000,100,1, Today
+1488,Dr. Soumik Banerjee,General Physician,20,Dr. Soumik Banerjee Clinic,Khardaha,Kolkata,750,100,1, Today
+1490,Dr. Sharat Honnatti,General Physician,20,United Medical Center,HSR Layout,Bangalore,750,96,577, Today
+1492,Dr. Regina Joseph,General Physician,31,Splendore Aesthetic Clinic,HSR Layout,Bangalore,700,87,64, Today
+1494,Dr. Kalaivani,General Physician,24,Sai Thunga Hospitals,HSR Layout,Bangalore,500,85,44, Today
+1495,Dr. Girikumar Venati,General Physician,16,Fortis Hospital,Bannerghatta Road,Bangalore,850,91,26, Today
+1496,Dr. Karunesh Kumar H S,General Physician,31,Diabliss Medical Centre,Koramangala 6 Block,Bangalore,600,93,270, Today
+1497,Dr. Munavvar Sultana Shaikh,Homoeopath,29,MS Homeopathic Medical Centre,Koramangala 6 Block,Bangalore,650,96,104, Today
+1498,Dr. Prabha Ramadorai,General Physician,25,Nano Hospitals,Hulimavu,Bangalore,500,89,41, Today
+1499,Dr. Manjunath A,Homoeopath,20,Dr Batra's Positive Health Clinic Pvt Ltd,Jayanagar 4 Block,Bangalore,450,88,16, Today
+1502,Dr. Ravinder Raju,Homoeopath,25,Positive Homeopathy,Kukatpally,Hyderabad,300,71,4, Today
+1503,Dr. B.Suresh Buddha,Homoeopath,17,Positive Homeopathy,Kukatpally,Hyderabad,300,86,3, Today
+1504,Dr. Panchagnula Satyanarayana Murthy,Homoeopath,30,Positive Homeopathy,Kachiguda,Hyderabad,300,100,59, Today
+1506,Dr. Vijendra Reddy,Homoeopath,20,Positive Homeopathy,Kukatpally,Hyderabad,300,100,1, Today
+1507,Dr. Srinivas Jakkinaboina,General Physician,25,MedSurge Clinics,Narsingi,Hyderabad,500,75,1, Today
+1508,Dr. K Suganthi,Homoeopath,25,Dr Batra's Positive Health Clinic Pvt Ltd,Dilsukhnagar,Hyderabad,450,100,1, Today
+1509,Dr. Venkataramana,Homoeopath,15,Positive Homeopathy,AS Rao Nagar,Hyderabad,300,100,7, Today
+1510,Dr. K Sandeep Reddy,General Physician,15,Pro Health Multispecialty Clinic,Manikonda,Hyderabad,500,77,26, Today
+1513,Dr. Pravin K Aggarwal,General Physician,42,Fortis Malar Hospital,Adyar,Chennai,700,85,5, Today
+1515,Dr. Sheethal Suresh,General Physician,30,Fortis Malar Hospital,Adyar,Chennai,500,80,6, Today
+1517,Dr. Nidhi Dube,Homoeopath,14,Dr Batra's Positive Health Clinic Pvt Ltd,Velachery,Chennai,450,100,3, Today
+1519,Dr. L Mathuvenkatesan,Homoeopath,24,Dr Batra's Positive Health Clinic Pvt Ltd,Ashok Nagar,Chennai,450,75,4, Today
+1525,Dr. Prakash Kumar Jha,Homoeopath,25,Dr Batra's Positive Health Clinic Pvt Ltd,Mira Road,Mumbai,450,92,12, Today
+1526,Dr. Komal Dixit,Homoeopath,16,Dr Batra's Positive Health Clinic Pvt Ltd,Ghatkopar East,Mumbai,450,75,14, Today
+1527,Dr. Hetal Pabaria,Homoeopath,20,Dr Batra's Positive Health Clinic Pvt Ltd,Mulund West,Mumbai,450,100,7, Today
+1528,Dr. Sanjay Shah,General Physician,38,Fortis Hospital,Mulund West,Mumbai,1500,87,10, Today
+1529,Dr. Sejal Vivek Parekar,Homoeopath,25,Dr Batra's Positive Health Clinic Pvt Ltd,Borivali West,Mumbai,450,100,1, Today
+1530,Dr. Shoibalini Karmokar,General Physician,3,Aceso Health Clinic,Santacruz West,Mumbai,900,95,14, Today
+1531,Dr. Saadan  Shahid,Homoeopath,25,Dr Batra's Positive Health Clinic Pvt Ltd,Lokhandwala,Mumbai,450,100,6, Today
+1532,Dr. Anshudeep Dodake,General Physician,12,Health Omega Clinic,Parel,Mumbai,500,100,18, Today
+1535,Dr. Mahesh M Lakhe,General Physician,20,Dr Lakhe's Healthcare and Research Centre,Kharadi,Pune,700,92,40, Today
+1536,Dr. Vaseem Choudhary,Homoeopath,14,Homeo Care Clinic,Hadapsar,Pune,300,92,280, Today
+1537,Dr. Geeta N Parwani,Homoeopath,27,Healing Touch Multispeciality Clinic ,Viman Nagar,Pune,800,95,93, Today
+1539,Dr. Swati Kulkarni,Homoeopath,22,Panacea Homoeopathic Speciality Center,Magarpatta City,Pune,500,97,39, Today
+1540,Dr. Amol L Dange,General Physician,19,Lifetree Healthcare And  Diagnostics,Wakad,Pune,600,89,15, Today
+1541,Dr. Rutika Khelkar,Homoeopath,31,Dr Rutika Khelkar Homeopathy Clinic,Aundh,Pune,500,93,10, Today
+1543,Dr. Ravi Pratap,General Physician,15,Sirius Wellness And Outreach Medical Services Clinic,Kharadi,Pune,600,99,72, Today
+1548,Dr. K.S. Walia,General Physician,49,Walia Medical and Maternity Centre,Sarita Vihar,Delhi,600,90,161, Today
+1549,Dr. Yatin Kukreja,General Physician,20,Kukreja Healthcare Clinic,Lajpat Nagar 4,Delhi,650,98,148, Today
+1552,Dr. Sunil Kumar Dwivedi,Homoeopath,18,SD Homoeopathy Multispecality Clinic,Dwarka,Delhi,400,93,140, Today
+1554,Dr. Sanchayan Roy,General Physician,25,Health First Wellness Centre,CR Park,Delhi,800,90,88, Today
+1558,Dr. Supra Paul,Homoeopath,22,Dr Batra's Positive Health Clinic Pvt Ltd,Minto Park,Kolkata,450,100,8, Today
+1559,Dr. Abhishek Chaturvedi,Homoeopath,12,Dr Batra's Positive Health Clinic Pvt Ltd,Behala,Kolkata,450,86,6, Today
+1560,Dr. Chinmay Mahanta,Homoeopath,19,Dr Batra's Positive Health Clinic Pvt Ltd,Kolkatta,Kolkata,450,100,1, Today
+1564,Dr. Shahid Shaikh,Homoeopath,18,Dr Batra's Positive Health Clinic Pvt Ltd,Salt Lake,Kolkata,450,100,1, Today
+1566,Dr. Dipayan Das,Homoeopath,12,The Healers,Garia,Kolkata,600,90,18, Today
+1569,Dr. Sunil Narayan Dutt,Ear-Nose-Throat (ENT),34,Apollo Hospital,Bannerghatta Road,Bangalore,850,84,9, Today
+1570,Dr. Anithakumari AM,Ear-Nose-Throat (ENT),27,Manipal Hospitals Old Airport Road,Old Airport Road,Bangalore,750,93,37, Today
+1571,Dr. Prateek Nayak,Ear-Nose-Throat (ENT),19,Aster CMI Hospital,Hebbal,Bangalore,1000,85,23, Today
+1572,Dr. Shalina Ray,Ear-Nose-Throat (ENT),24,Manipal Hospitals Old Airport Road,Old Airport Road,Bangalore,750,88,90, Today
+1573,Dr. Sumit Kumar Gaur,Ear-Nose-Throat (ENT),13,Apollo Hospital,Bannerghatta Road,Bangalore,850,67,3, Today
+1574,Dr. Bathi Reddy,Ear-Nose-Throat (ENT),41,Manipal Hospitals Old Airport Road,Old Airport Road,Bangalore,750,47,21, Today
+1575,Dr. Girish Rai B,Ear-Nose-Throat (ENT),33,Manipal Hospitals Old Airport Road,Old Airport Road,Bangalore,750,34,38, Today
+1576,Dr. Sashikanth.J,Ear-Nose-Throat (ENT),23,Citizens Speciality Hospitals,Lingampally,Hyderabad,800,88,15, Today
+1577,Dr. Manohar Shaan,Ear-Nose-Throat (ENT),32,Nanavati Super Speciality Hospital,Vileparle West,Mumbai,1200,96,103, Today
+1578,Dr. Agneesh Patial,Ear-Nose-Throat (ENT),20,Nanavati Super Speciality Hospital,Vileparle West,Mumbai,1300,84,19, Today
+1579,Dr. Amol Patil,Ear-Nose-Throat (ENT),19,Nanavati Super Speciality Hospital,Vileparle West,Mumbai,1000,98,169, Today
+1580,Dr. Tejas Baijal,Ear-Nose-Throat (ENT),18,Sahyadri Hospital,Kothrud,Pune,300,90,6, Today
+1582,Dr. Gita Gangadharan Shrivastav,Ear-Nose-Throat (ENT),35,Max Super Speciality Hospital,Patparganj,Delhi,1000,80,7, Today
+1583,Dr. Anurag Tandon,Ear-Nose-Throat (ENT),34,Max Super Speciality Hospital,Patparganj,Delhi,1000,56,28, Today
+1584,Dr. Mala Bhattacharjee,Ear-Nose-Throat (ENT),28,Max Super Speciality Hospital,Patparganj,Delhi,800,100,4, Today
+1585,Dr. Suven Kalra,Ear-Nose-Throat (ENT),16,Max Super Speciality Hospital,Shalimar Bagh,Delhi,800,50,3, Today
+1586,Dr. Anuj Singhal,Ear-Nose-Throat (ENT),31,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,1500,83,2, Today
+1587,Dr. Sharad Maheswari,Ear-Nose-Throat (ENT),41,Max Super Speciality Hospital,Patparganj,Delhi,800,63,19, Today
+1588,Dr. Deepti Sinha,Ear-Nose-Throat (ENT),23,Max Super Speciality Hospital,Shalimar Bagh,Delhi,1000,100,1, Today
+1589,Dr. D Jijina,Ear-Nose-Throat (ENT),43,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,1500,94,19, Today
+1590,Dr. Ashok Singh,Ear-Nose-Throat (ENT),21,Max Super Speciality Hospital,Patparganj,Delhi,700,82,18, Today
+1591,Dr. Sumit Mrig,Ear-Nose-Throat (ENT),21,Max Smart Superspeciality Hospital,Saket,Delhi,1500,85,89, Today
+1673,Dr. Sumanth Shetty,Dentist,24,Chisel Dental,Koramangala,Bangalore,500,97,2602, Today
+1674,Dr. Pramod,Dentist,19,Dental De Care,Domlur,Bangalore,300,98,173, Today
+1675,Dr. Rashmi Shetty,Dentist,18,Chisel Dental,Koramangala,Bangalore,500,99,2690, Today
+1676,Dr. Jaswanth Reddy,Dentist,17,SSR Multispeciality Dental Clinic,Marathahalli,Bangalore,500,96,19, Today
+1677,Dr. Krishnanand,Dentist,12,Royal Smiles Multi Speciality Dental and Facial Aesthetics Centre,Varthur,Bangalore,200,100,1160, Today
+1678,Dr. Mahantesh,Dentist,15,Smile Care Orthodontic Center & Multispeciality Dental Clinic,Sarjapur Road,Bangalore,550,99,586, Today
+1679,Dr. T. Ramakrishna,Dentist,25,Dental Profiles,JP Nagar 5 Phase,Bangalore,500,95,362, Today
+1680,Dr. M. R. Pujari,Dentist,17,32 Smiles Multispeciality Dental Clinic,Marathahalli,Bangalore,500,96,1424, Today
+1681,Dr. Abhinav Diwan,Dentist,24,Family Dental Care & Implant Center,Horamavu,Bangalore,500,99,148, Today
+1682,Dr. Sowmya,Dentist,19,32t Dental Clinic,New BEL Road,Bangalore,500,98,51, Today
+1684,Dr. Sameer A.Mahendra,Dentist,24,Udai Omni Hospital,Chapel Road,Hyderabad,700,100,1, Today
+1685,Dr. Naresh.S,Dentist,13,Clove Dental,Kukatpally,Hyderabad,500,100,1, Today
+1686,Dr. P.Vijaya Kumar,Dentist,15,Clove Dental,Vikrampuri Colony,Hyderabad,500,100,1, Today
+1687,Dr. Harshita Shareef,Dentist,19,Clove Dental,Kondapur,Hyderabad,500,94,7, Today
+1688,Dr. Vadiraj,Dentist,15,Clove Dental,Vikrampuri Colony,Hyderabad,500,67,1, Today
+1689,Dr. Sushma Reddy,Dentist,22,Clove Dental,Jubilee Hills,Hyderabad,750,86,6, Today
+1690,Dr. Neharika Juneja,Dentist,13,Clove Dental,Miyapur,Hyderabad,500,100,1, Today
+1691,Dr. Jahnavi,Dentist,7,Clove Dental,Kukatpally,Hyderabad,500,100,8, Today
+1692,Dr. Priyanka M,Dentist,11,Clove Dental,Miyapur,Hyderabad,500,67,4, Today
+1693,Dr. Vamsi Krishna Ch,Dentist,15,Clove Dental,Malkajgiri,Hyderabad,500,100,1, Today
+1695,Dr. Subramoniam S,Dentist,20,Lakshmi Dental Care,Porur,Chennai,500,100,229, Today
+1696,Dr. M.Srikanth,Dentist,22,Smile Solutions Family Dentistry,Perungudi,Chennai,500,98,585, Today
+1697,Dr. M. Suresh,Dentist,11,M.S Multi Speciality Dental Clinic,Perumbakkam,Chennai,500,99,324, Today
+1698,Dr. Prem Kumar,Dentist,16,Just Smile Dental & ENT Specialities,Madipakkam,Chennai,500,97,48, Today
+1699,Dr. Mareeswari,Dentist,15,A2Z Dental Care,Pallikaranai,Chennai,500,99,164, Today
+1700,Dr. N Sankar Ram Mithran,Dentist,15,Dr. Mithran's Multispeciality Dental Clinic,Chromepet,Chennai,500,98,113, Today
+1701,Dr. Balajee. J,Dentist,11,Elite Dentistry,Anna Nagar West,Chennai,500,100,18, Today
+1702,Dr. Saravanan,Dentist,15,Balamurugan Dental Clinic,Mylapore,Chennai,500,98,100, Today
+1703,Dr. V.K.Vignesh,Dentist,7,VIGNESH'S DENTAL ZONE,Gowrivakkam,Chennai,150,100,84, Today
+1704,Dr. Senthil Kumaran,Dentist,16,Dentall Care,Adambakkam,Chennai,300,99,113, Today
+1706,Dr. Ankita Chauhan,Dentist,12,Sharan Hospital,Ghatkopar West,Mumbai,600,100,22, Today
+1707,Dr. Deepkriti Gupta,Dentist,15,Shreeji Eye Clinic & Dental Care Centre,Mira Road,Mumbai,500,95,26, Today
+1708,Dr. Meru Sethi,Dentist,23,Clove Dental,Viman Nagar,Pune,500,100,2, Today
+1709,Dr. Desh Dixchha,Dentist,10,Clove Dental,Wanowrie,Pune,500,100,1, Today
+1710,Dr. Akshay Raut,Dentist,16,Noble Hospital,Hadapsar,Pune,150,100,30, Today
+1711,Dr. Dayanand Shirol,Dentist,25,Noble Hospital,Hadapsar,Pune,300,100,1, Today
+1712,Dr. Jeena Nair,Dentist,25,Noble Hospital,Hadapsar,Pune,300,100,1, Today
+1713,Dr. Girish Bykod,Dentist,25,Noble Hospital,Hadapsar,Pune,200,100,1, Today
+1714,Dr. Gawande Pushkar,Dentist,22,Noble Hospital,Hadapsar,Pune,200,100,1, Today
+1715,Dr. Nishu Bansal,Dentist,11,Clove Dental,Adarsh Nagar,Delhi,500,100,1, Today
+1716,Dr. Sakshi Sharma,Dentist,18,Clove Dental,Model Town 2,Delhi,500,100,1, Today
+1717,Dr. Sujit Pradhan,Dentist,11,Clove Dental,Shivalik,Delhi,500,100,1, Today
+1718,Dr. Smriti Mehrotra,Dentist,10,Clove Dental,Kailash Colony,Delhi,500,100,5, Today
+1719,Dr. Bhavani Ramesh Nair,Dentist,27,Clove Dental,Safdarjung Development Area,Delhi,500,100,1, Today
+1720,Dr. Manish Kaushik,Dentist,10,Clove Dental,Dwarka Sector 7,Delhi,500,88,1, Today
+1721,Dr. Ruchika Agarwal,Dentist,16,Clove Dental,IP Extension,Delhi,500,100,1, Today
+1722,Dr. Geetika Maan,Dentist,17,Clove Dental,Dwarka Sector 5,Delhi,500,100,2, Today
+1723,Dr. Nitika Bangia,Dentist,16,Clove Dental,Paschim Vihar,Delhi,500,100,1, Today
+1724,Dr. Prerna Beniwal,Dentist,11,Clove Dental,Safdarjung Enclave,Delhi,500,100,1, Today
+1927,Dr. Pallavi Jitendra Kulkarni,Homoeopath,21,The Harmony Classical Homeopathy Clinic,Hadapsar,Pune,1000,98,37, Today
+2043,Dr. Vignessh Raj,Dermatologist,16,Dr. RAJ's Centre for Skin & Hair,Whitefield,Bangalore,700,98,286, Today
+2045,Dr. Phanindra V V,Ayurveda,15,Narayana Ayurveda Kuteeram,Banashankari,Bangalore,400,99,273, Today
+2047,Dr. Harish Prasad B.R,Dermatologist,16,Vitals Skin and Hair Klinic,BTM Layout,Bangalore,700,96,348, Today
+2050,Dr. Aishwarya Radhakrishna,Dermatologist,15,Oliva Skin And Hair Clinic,Jayanagar 5 Block,Bangalore,600,91,46, Today
+2053,Dr. G L Sitara,Dermatologist,13,Dr Sitara Advanced Skin And Hair Clinic,Madinaguda,Hyderabad,500,97,287, Today
+2054,Dr. Satish Erra,Homoeopath,14,Dr. Satish Erra's Homeopathy Clinic,Dilsukhnagar,Hyderabad,500,98,579, Today
+2058,Dr. Spoorthy Nagineni,Dermatologist,10,Ambrosia Clinic,Banjara Hills,Hyderabad,700,99,59, Today
+2059,Dr. Sirisha Yanegalla,Dermatologist,13,Derma 360,Kondapur,Hyderabad,600,97,159, Today
+2062,Dr. Brahmananda Reddy,Dermatologist,11,Vernon Skin Laser Slimming Hair Clinic,Banjara Hills,Hyderabad,800,94,327, Today
+2064,Dr. Jyothsna,Dermatologist,12,"Curves Cosmetic Surgery, Skin & Laser Clinic",Saligramam,Chennai,700,96,142, Today
+2073,Dr. Snehalatha,Dermatologist,18,Nila Skin Care Clinic,Tambaram East,Chennai,750,92,234, Today
+2079,Dr. Mithali Jage,Dermatologist,9,SkinAmour Clinic,Sion,Mumbai,1000,98,75, Today
+2082,Dr. Suraj Shetty,Dermatologist,14,Tvaksh Advanced Skin And Hair Clinic,Andheri West,Mumbai,900,98,61, Today
+2096,Dr. Shuhaib MP,Dermatologist,13,Milagro Med,Baner,Pune,500,98,102, Today
+2097,Dr. Poonam Patil,Dermatologist,11,Dermaspace Skin Hair & Laser Clinic,Koregaon Park,Pune,600,93,94, Today
+2106,Dr. Prateek Sondhi,Dermatologist,13,Derma Circles: Doctors from AIIMS,South Extension 2,Delhi,1200,97,381, Today
+2107,Dr. Abhishek Sharma,Dermatologist,12,Sharma Multispeciality Clinic ,South Extension 1,Delhi,1000,100,145, Today
+2108,Dr. Syed Nazim Hussain,Dermatologist,18,Royal Lush Skin Hair & Laser Clinic,Saket,Delhi,1500,86,67, Today
+2113,Dr. Supra Paul,Homoeopath,22,Dr Batra's Positive Health Clinic Pvt Ltd,Minto Park,Kolkata,450,100,8, Today
+2116,Dr. Abhishek Chaturvedi,Homoeopath,12,Dr Batra's Positive Health Clinic Pvt Ltd,Behala,Kolkata,450,86,6, Today
+2117,Dr. Anupam Das,Dermatologist,8,IRIS Hospital,Baghajatin,Kolkata,600,100,2, Today
+2120,Dr. Chinmay Mahanta,Homoeopath,19,Dr Batra's Positive Health Clinic Pvt Ltd,Kolkatta,Kolkata,450,100,1, Today
+2122,Dr. Sujaya S.N.,Dermatologist,19,SurgiDerma Hospital,HRBR Layout,Bangalore,750,98,129, Today
+2123,Dr. Kisalay Saurav,Dermatologist,20,Dr. Saurav's Skin Clinic,Kalyan Nagar,Bangalore,700,93,115, Today
+2124,Dr. Parthasarathi Dutta Roy,Dermatologist,20,Dr. Partha Sarathi's Asian Hair and Skin Hospitals,MG Road,Bangalore,700,89,1314, Today
+2125,Dr. Jigisha N Jalu,Dermatologist,13,Vida Skin & Hair Transplant Clinic,Whitefield,Bangalore,700,98,30, Today
+2126,Dr. Asmita Dhekne Chebbi,Dermatologist,14,Apollo Spectra Hospitals,Koramangala 5 Block,Bangalore,600,98,254, Today
+2127,Dr. Harish Prasad B.R,Dermatologist,16,Vitals Skin and Hair Klinic,BTM Layout,Bangalore,700,96,348, Today
+2128,Dr. Juvita Rasquinha,Dermatologist,18,"Dr. Juvita's Aesthetics Skin, Hair and Cosmetology Clinic",Indiranagar,Bangalore,500,91,458, Today
+2129,Dr. Jaya Sathvika Varre,Dermatologist,10,Oliva Skin & Hair Clinic,HRBR Layout,Bangalore,600,94,45, Today
+2130,Dr. Varsha.R,Dermatologist,12,DermaZeal Clinic,HSR Layout,Bangalore,1000,95,209, Today
+2131,Dr. Deepak Devakar,Dermatologist,19,Dermasculpt Hair Transplant and Skin Clinic,JP Nagar,Bangalore,600,98,580, Today
+2134,Dr. Soumya Podduturi,Dermatologist,13,Dr. Soumya's Aria Skin & Hair Clinic,Kompally,Hyderabad,600,96,204, Today
+2135,Dr. Venu Kumari,Dermatologist,18,Dr. Venus Insititue of Skin & Hair,Chanda Nagar,Hyderabad,500,86,917, Today
+2136,Dr. Madhavi Pudi,Dermatologist,16,Dr. Madhavis Advanced Skin Hair and Laser Clinic,Balkampet,Hyderabad,800,91,554, Today
+2137,Dr. Sruthi Alla,Dermatologist,12,NYRA SKIN & HAIR CLINIC,Madhapur,Hyderabad,750,97,310, Today
+2138,Dr. Sruthi Gondi,Dermatologist,13,Science Of Skin,Secunderabad,Hyderabad,700,93,179, Today
+2139,Dr. Radha Penumatsa,Dermatologist,10,Veda Skin & Hair Clinic,Kompally,Hyderabad,500,100,17, Today
+2140,Dr. Shravya G,Dermatologist,17,Anceita Skin and Hair Clinic,Jubilee Hills,Hyderabad,800,92,203, Today
+2141,Dr. Ishani Chakravarty,Dermatologist,20,"Aviva Skin, Laser & Hair Clinic",Secunderabad,Hyderabad,600,90,81, Today
+2142,Dr. Saguna Puttoo,Dermatologist,25,Dr. Saguna's Premier Dermatology Clinic,Kukatpally,Hyderabad,600,94,101, Today
+2143,Dr. Brahmananda Reddy,Dermatologist,11,Vernon Skin Laser Slimming Hair Clinic,Banjara Hills,Hyderabad,800,94,327, Today
+2145,Dr. Jyothsna,Dermatologist,12,"Curves Cosmetic Surgery, Skin & Laser Clinic",Saligramam,Chennai,700,96,142, Today
+2146,Dr. Sukanya Mathupal,Dermatologist,23,Dr. Rela Institute & Medical Centre,Chromepet,Chennai,600,94,95, Today
+2147,Dr. Meenakshi M,Dermatologist,11,Oliva Skin And Hair Clinic,Alwarpet,Chennai,600,99,74, Today
+2148,Dr. Azra Fatima N,Dermatologist,11,Oliva Skin & Hair Clinic,Adyar,Chennai,600,99,76, Today
+2149,Dr. Suryaprabha P,Dermatologist,10,Oliva Skin & Hair Clinic,Adyar,Chennai,600,100,86, Today
+2150,Dr. Hari Priya A,Dermatologist,7,Oliva Skin & Hair Clinic,Anna Nagar,Chennai,600,100,93, Today
+2151,Dr. Lakshmi M,Dermatologist,19,Oliva Skin & Hair Clinic,Anna Nagar,Chennai,600,98,86, Today
+2152,Dr. Nivethitha S,Dermatologist,7,Oliva Skin And Hair Clinic,Alwarpet,Chennai,600,99,79, Today
+2153,Dr. Lakshmi Durga M,Dermatologist,18,Oliva Skin & Hair Clinic,Anna Nagar,Chennai,600,99,100, Today
+2154,Dr. Subhashini Mohan,Dermatologist,17,Apollo Spectra Hospital,Alwarpet,Chennai,1000,96,17, Today
+2157,Dr. Deepam J. Shah,Dermatologist,13,Viva Aesthetic Clinic,Opera House,Mumbai,1500,96,244, Today
+2158,Dr. Pratik Thacker,Dermatologist,13,CODE by Dr. Pratik Thacker,Borivali West,Mumbai,800,97,31, Today
+2159,Dr. Pallavi Sule,Dermatologist,13,Dr. Pallavi Sule's Skin Hair Aesthetics Clinic,Powai,Mumbai,1000,95,70, Today
+2160,Dr. Rameshwar Gutte,Dermatologist,19,Dermodent Clinic,Kanjurmarg,Mumbai,500,95,86, Today
+2161,Dr. Resham Vasani Bhojani,Dermatologist,24,BHOJANI CLINIC,Matunga,Mumbai,1700,99,261, Today
+2162,Dr. Kiran Katkar,Dermatologist,38,Dr Kiran Katkar's Dermis Skin Wellness Clinic Lase,Dadar West,Mumbai,1200,93,130, Today
+2163,Dr. Neha V Shah,Dermatologist,14,Skin Vogue Clinic,Ghatkopar East,Mumbai,1000,99,119, Today
+2164,Dr. Vaishali Kanthi,Dermatologist,25,Luvayaa Skin Clinic,Bhandup West,Mumbai,800,87,56, Today
+2165,Dr. Sejal Saheta,Dermatologist,19,Inurskn - Skin & Hair Clinic,Powai,Mumbai,1000,95,260, Today
+2166,Dr. Pallavi Rathi,Dermatologist,19,My Skin My Health,Andheri East,Mumbai,1000,90,261, Today
+2169,Dr. Pradeep Kumari,Dermatologist,20,Skin And Surgery International & Asia Institute Of Hair Transplant,Viman Nagar,Pune,700,96,670, Today
+2170,Dr. Mohan Darbastwar,Dermatologist,16,The Skin Hair Laser & Cosmetology Clinic,Koregaon Park,Pune,600,97,255, Today
+2171,Dr. Nandini Teli,Dermatologist,14,Alpha Superspeciality Hospital,Wakad,Pune,800,91,424, Today
+2172,Dr. Nitin Jain,Dermatologist,21,Skin And Surgery International & Asia Institute Of Hair Transplant,Kothrud,Pune,700,97,334, Today
+2173,Dr. Hetal Jobanputra,Dermatologist,18,Radiant Skin and Hair Clinic,Baner,Pune,600,97,331, Today
+2174,Dr. Madhavi Krishnarao Salunkhe,Dermatologist,21,Oliva Skin and Hair Clinic,Shivajinagar,Pune,600,100,61, Today
+2175,Dr. Amrin Jibrail Diwan,Dermatologist,11,Oliva Skin and Hair Clinic,Kalyani Nagar,Pune,600,99,80, Today
+2176,Dr. Renuka Vinod Nalawade,Dermatologist,10,Reeva Skin Clinic,Kothrud,Pune,600,100,54, Today
+2177,Dr. Yogeshree Kanase,Dermatologist,13,Doctor To Home & Clinic,Pimple Saudagar,Pune,600,96,31, Today
+2178,Dr. Vanishree S. V,Dermatologist,14,Skinarina,Nigdi,Pune,700,83,79, Today
+2181,Dr. Tapesh Sharma,Dermatologist,25,Twacha Skin Clinic,Dwarka,Delhi,1500,97,316, Today
+2182,Dr. Navnit Haror,Dermatologist,10,Derma Miracle Skin And Hair Transplant Clinic,Greater Kailash Part 1,Delhi,1000,92,109, Today
+2183,Dr. Shruti Gupta,Dermatologist,13,SKINOS,Kamla Nagar,Delhi,1000,99,1532, Today
+2184,Dr. Syed Nazim Hussain,Dermatologist,18,Royal Lush Skin Hair & Laser Clinic,Saket,Delhi,1500,86,67, Today
+2185,Dr. Sonia Mangal,Dermatologist,14,MYRA Skin & Hair Solutions,Panchsheel Park,Delhi,1500,96,142, Today
+2186,Dr. Lipy Gupta,Dermatologist,18,Green Park Family Medicine Clinic,Green Park,Delhi,800,96,316, Today
+2187,Dr. Vijay Singhal,Dermatologist,18,Zenith Skin Hair & Dental Centre,Punjabi Bagh,Delhi,800,93,152, Today
+2188,Dr. Indu Ballani,Dermatologist,18,BLK-Max Super Speciality Hospital,Pusa Road,Delhi,1000,91,18, Today
+2189,Dr. A J Kanwar,Dermatologist,52,Dr AJ Kanwar Skin Clinic,Greater Kailash Part 1,Delhi,1500,96,387, Today
+2190,Dr. Deepti  Shrivastava,Dermatologist,28,Skin Hair & You,Anand Vihar,Delhi,800,95,319, Today
+2192,Dr. Reeja Mariam George,Dermatologist,15,Oliva Skin & Hair Clinic,Park Street,Kolkata,600,100,71, Today
+2193,Dr. Debatri Datta,Dermatologist,8,Oliva Skin & Hair Clinic,Salt Lake,Kolkata,600,97,104, Today
+2194,Dr. Barnali Dutta,Dermatologist,27,Oliva Skin & Hair Clinic,Jodhpur Park,Kolkata,600,95,81, Today
+2195,Dr. Nidhi jindal,Dermatologist,18,Oliva Skin & Hair Clinic,Salt Lake,Kolkata,600,97,42, Today
+2196,Dr. Aarti Sarda,Dermatologist,16,AMRI Hospitals,Dhakuria,Kolkata,800,92,96, Today
+2197,Dr. Anupam Das,Dermatologist,8,IRIS Hospital,Baghajatin,Kolkata,600,100,2, Today
+2198,Dr. Khushbu Tantia,Dermatologist,10,La Derma Skin & Hair Clinic,Salt Lake,Kolkata,600,90,47, Today
+2199,Dr. Tripathy Sanjita,Dermatologist,17,Oliva Skin & Hair Clinic,Park Street,Kolkata,600,86,13, Today
+2200,Dr. Priyanka Aggarwal,Dermatologist,14,Re-Incarnation The Complete Skin Care Clinic,New Town,Kolkata,1000,93,43, Today
+2201,Dr. Farhat Fatima,Dermatologist,7,Oliva Skin & Hair Clinic,Jodhpur Park,Kolkata,600,100,6, Today
+2207,Dr. Vignessh Raj,Dermatologist,16,Dr. RAJ's Centre for Skin & Hair,Whitefield,Bangalore,700,98,286, Today
+2212,Dr. Harish Prasad B.R,Dermatologist,16,Vitals Skin and Hair Klinic,BTM Layout,Bangalore,700,96,348, Today
+2220,Dr. Srushanth Mukka,Dermatologist,11,Euderm Skin and Hair Clinic,Nanakramguda,Hyderabad,600,100,4, Today
+2222,Dr. Venu Kumari,Dermatologist,18,Dr. Venus Insititue of Skin & Hair,Chanda Nagar,Hyderabad,500,86,917, Today
+2235,Dr. Rajesh Verma,Ayurveda,28,Bliss Medicare Centre,Vadapalani,Chennai,600,95,161, Today
+2236,Dr. Poonam Verma,Ayurveda,27,Bliss Medicare Centre,Vadapalani,Chennai,600,96,17, Today
+2242,Dr. Vaishali Kanthi,Dermatologist,25,Luvayaa Skin Clinic,Bhandup West,Mumbai,800,87,56, Today
+2246,Dr. Suraj Shetty,Dermatologist,14,Tvaksh Advanced Skin And Hair Clinic,Andheri West,Mumbai,900,98,61, Today
+2248,Dr. Geoffrey Vaz,Dermatologist,11,Maven Esthetics,Versova,Mumbai,1000,94,11, Today
+2253,Dr. Sonal Chavan,Dermatologist,17,Dr. Sonnal Chavaan Aesthetic Clinic,Pimple Saudagar,Pune,700,90,396, Today
+2256,Dr. Shalthiel Sathe,Homoeopath,14,"Eva Pimples, Skin & Hair Clinic",Wakad,Pune,500,92,173, Today
+2265,Dr. Arihant Surana,Dermatologist,23,Monaris Skin and Hair Clinic,Defence Colony,Delhi,1000,96,122, Today
+2269,Dr. Amrendra kumar,Dermatologist,16,Dermaclinix,Defence Colony,Delhi,1500,93,255, Today
+2272,Dr. Aarti Sarda,Dermatologist,16,AMRI Hospitals,Dhakuria,Kolkata,800,92,96, Today
+2273,Dr. Niraj Jain,Dermatologist,13,Dr. Jain Skin & Hair Care Clinic,Gokhel Road,Kolkata,500,94,92, Today
+2274,Dr. Supra Paul,Homoeopath,22,Dr Batra's Positive Health Clinic Pvt Ltd,Minto Park,Kolkata,450,100,8, Today
+2277,Dr. Abhishek Chaturvedi,Homoeopath,12,Dr Batra's Positive Health Clinic Pvt Ltd,Behala,Kolkata,450,86,6, Today
+2281,Dr. Chinmay Mahanta,Homoeopath,19,Dr Batra's Positive Health Clinic Pvt Ltd,Kolkatta,Kolkata,450,100,1, Today
+2285,Dr. Deepak Devakar,Dermatologist,19,Dermasculpt Hair Transplant and Skin Clinic,JP Nagar,Bangalore,600,98,580, Today
+2287,Dr. Sankeerth Vijayakumar,Dermatologist,13,Dermaville,HSR Layout,Bangalore,600,97,156, Today
+2289,Dr. Sandeep Mahapatra,Dermatologist,18,Derma Solutions,Marathahalli,Bangalore,800,90,930, Today
+2290,Dr. Shashidhar T,Dermatologist,16,Dermacare Skin & Hair Clinic,Jayanagar 4 Block,Bangalore,700,98,703, Today
+2292,Dr. Harish Prasad B.R,Dermatologist,16,Vitals Skin and Hair Klinic,BTM Layout,Bangalore,700,96,348, Today
+2293,Dr. Madan Kumar B J,Dermatologist,12,Vtiara Hair & Skin Clinic,Old Airport Road,Bangalore,750,92,57, Today
+2300,Dr. Madhavi Pudi,Dermatologist,16,Dr. Madhavis Advanced Skin Hair and Laser Clinic,Balkampet,Hyderabad,800,91,554, Today
+2302,Dr. Meghana,Dermatologist,20,Oliva Skin & Hair Clinic,Banjara Hills,Hyderabad,600,99,111, Today
+2303,Dr. P. Haritha,Dermatologist,17,My Skin Hair & Cosmetology Clinic,Alwal,Hyderabad,500,79,11, Today
+2308,Dr. Ariganesh,Dermatologist,16,Derma Clinix,Mylapore,Chennai,500,89,69, Today
+2310,Dr. Ganga Ravikumar,Dermatologist,33,Dermis Skin & Hair Clinic,Adyar,Chennai,700,96,255, Today
+2313,Dr. A.Selvam,Dermatologist,28,Fortis Malar Hospital,Adyar,Chennai,500,67,3, Today
+2314,Dr. Rajkumar Kannan,Dermatologist,17,Fortis Malar Hospital,Adyar,Chennai,500,100,12, Today
+2315,Dr. Narayanamurthy,General Physician,39,Vbn Murthy,Alwarpet,Chennai,750,99,38, Today
+2316,Dr. Amudha,Dermatologist,28,Amudha's Skin Care Clinic,Velachery,Chennai,350,96,146, Today
+2321,Dr. Mohd Asif,Dermatologist,11,Cara Hair Transplant and Aesthetic Center,Santacruz West,Mumbai,1000,100,105, Today
+2322,Dr. Suraj Shetty,Dermatologist,14,Tvaksh Advanced Skin And Hair Clinic,Andheri West,Mumbai,900,98,61, Today
+2326,Dr. Haresh  Timbadia,Dermatologist,42,Bienaura Clinic,Borivali West,Mumbai,1200,95,76, Today
+2332,Dr. Sonal Chavan,Dermatologist,17,Dr. Sonnal Chavaan Aesthetic Clinic,Pimple Saudagar,Pune,700,90,396, Today
+2334,Dr. Geeta N Parwani,Homoeopath,27,Healing Touch Multispeciality Clinic ,Viman Nagar,Pune,800,95,93, Today
+2346,Dr. Gaurav Garg,Dermatologist,16,Dermalife Skin Hair Clinic,Green Park,Delhi,1200,92,100, Today
+2347,Dr. Navnit Haror,Dermatologist,10,Derma Miracle Skin And Hair Transplant Clinic,Greater Kailash Part 1,Delhi,1000,92,109, Today
+2352,Dr. Niraj Jain,Dermatologist,13,Dr. Jain Skin & Hair Care Clinic,Gokhel Road,Kolkata,500,94,92, Today
+2355,Dr. Aarti Sarda,Dermatologist,16,Wizderm Speciality Skin And Hair Clinic.,Jodhpur Park,Kolkata,700,92,96, Today
+2358,Dr. Rohan Das,Dermatologist,6,GLO - Art Of Medicine,New Alipore,Kolkata,500,100,13, Today
+2359,Dr. Indrashis Podder,Dermatologist,11,Royed Nursing Home,Park Street,Kolkata,500,80,3, Today
+2364,Dr. Rashmi Shetty,Dentist,18,Chisel Dental,Koramangala,Bangalore,500,99,2690, Today
+2365,Dr. Anjali Shetty,Dentist,21,Dental and Orthodontic Clinic,Kalyan Nagar,Bangalore,500,99,239, Today
+2366,Dr. Ganesh Shetty,Dentist,25,Dental and Orthodontic Clinic,Kalyan Nagar,Bangalore,500,98,956, Today
+2367,Dr. Akshai Shetty,Dentist,26,Aesthete Lifestyle Dentistry,HSR Layout,Bangalore,500,97,101, Today
+2368,Dr. Baswaraj Biradar,Dentist,26,Impressions Dental Specialities,Sahakaranagar,Bangalore,500,99,425, Today
+2369,Dr. Sunil Rao,Dentist,27,Smile Dental Care,Vijayanagar,Bangalore,500,98,200, Today
+2370,Dr. Vivekananda Reddy,Dentist,22,Smile Craft Dental and Implant Centre,Hoodi,Bangalore,500,100,29, Today
+2371,Dr. Rajkumar G.C,Dentist,28,Raj Kumar's Dental And Implant Centre,Basavanagudi,Bangalore,500,99,190, Today
+2372,Dr. Sumanth Shetty,Dentist,24,Chisel Dental,Koramangala,Bangalore,500,97,2602, Today
+2373,Dr. Prafulla Biradar,Dentist,22,Impressions Dental Specialities,Sahakaranagar,Bangalore,500,99,79, Today
+2376,Dr. Sahaja Reddy,Dentist,13,Sahaja Dental Clinic,Mansoorabad,Hyderabad,500,99,109, Today
+2377,Dr. G.Chandra Sekhar,Dentist,33,Dr. G Chandra Sekhar's Dental Hospital,Himayat Nagar,Hyderabad,500,98,104, Today
+2378,Dr. Manchana Ashok Kumar,Dentist,17,Eledent International Dental Hospital,Kondapur,Hyderabad,300,98,122, Today
+2379,Dr. S Sreedhar Reddy,Dentist,24,Esthetix Dental ,West Marredpally,Hyderabad,500,100,104, Today
+2380,Dr. Sneha Lakshmi Nagineni,Dentist,13,Dantam - The Dental Lounge,Gachibowli,Hyderabad,500,98,660, Today
+2381,Dr. M Sridhar,Dentist,23,Dental 360,Kondapur,Hyderabad,500,99,265, Today
+2382,Dr. Chandrashekhar Reddy,Dentist,24,Sri Sai Dental Hospital,Chanda Nagar,Hyderabad,500,98,10, Today
+2383,Dr. Adusumilli Gopinath,Dentist,24,Winning Smiles Dental Lounge,Gachibowli,Hyderabad,500,98,310, Today
+2384,Dr. K Sravani Reddy,Dentist,12,SmilenGlow Dental and Skin Hospital,Karkhana,Hyderabad,500,98,69, Today
+2385,Dr. Yugandhar,Dentist,21,National Dental Care,KPHB,Hyderabad,500,95,826, Today
+2388,Dr. Subashini,Dentist,16,Dew Cosmetic Clinic,Valasaravakkam,Chennai,500,100,83, Today
+2389,Dr. Roshan Rayen,Dentist,23,Rayen Dental Care Center,Nungambakkam,Chennai,500,98,200, Today
+2390,Dr. Vivek Pandian,Dentist,11,Dr Vivek's MSRam's Dentistry,Chromepet,Chennai,500,98,235, Today
+2391,Dr. P.Uma Devi,Dentist,18,Uma's Dental Care,Valasaravakkam,Chennai,250,99,46, Today
+2392,Dr. T. Sivasankari,Dentist,20,Harsini Dental Clinic,Mogappair,Chennai,500,90,26, Today
+2393,Dr. E. Sarath Chandar,Dentist,28,Sarath Dental Clinic,Thiruvanmiyur,Chennai,500,99,213, Today
+2394,Dr. Balaji K,Dentist,27,KB DENTAL CLINIC ORTHODONTIC AND IMPLANT CENTER,Anna Nagar,Chennai,600,100,64, Today
+2395,Dr. Subramoniam S,Dentist,20,Lakshmi Dental Care,Porur,Chennai,500,100,229, Today
+2396,Dr. M.Srikanth,Dentist,22,Smile Solutions Family Dentistry,Chromepet,Chennai,500,98,585, Today
+2397,Dr. Kirthiga M,Dentist,16,Microsmiles,Anna Nagar West,Chennai,500,99,50, Today
+2400,Dr. Ashitesh Kumar,Dentist,12,Dental Home-A Multi-Specialty Dental Clinic,Chembur East,Mumbai,500,100,133, Today
+2401,Dr. Rajiv Rajan,Dentist,24,Raj Dental Clinic,Chembur East,Mumbai,500,100,118, Today
+2402,Dr. Shantanu Jambhekar,Dentist,16,Smilessence Center for Advanced Dentistry,Parel,Mumbai,500,99,93, Today
+2403,Dr. Nikhil Surana,Dentist,14,Bright 32 Dental Care & Orthodontic Centre,Kandivali East,Mumbai,500,96,27, Today
+2404,Dr. Amar Ravjiani,Dentist,31,Jaws-N-Joints Dental Health And Wellness Centre,Ghatkopar East,Mumbai,750,98,142, Today
+2405,Dr. Pallavi Kendrekar,Dentist,25,Synergy Dental Clinics,Borivali West,Mumbai,800,98,114, Today
+2406,Dr. Suhani Talesara,Dentist,14,Dr. Suhani's Dr. Dentist Multispeciality Dental Clinic,Jogeshwari,Mumbai,500,100,212, Today
+2407,Dr. Rajendra Sankpal,Dentist,31,Dr Sankpals Dental Center,Powai,Mumbai,600,96,114, Today
+2408,Dr. Suhas Lele,Dentist,42,SmilesForever By Dr Suhas Lele,Prabhadevi,Mumbai,500,98,30, Today
+2409,Dr. Vipin L Mahurkar,Dentist,26,Synergy Dental Clinics,Borivali West,Mumbai,800,98,109, Today
+2412,Dr. Puja Bansal,Dentist,24,Prudent International Health Clinic,Kalyani Nagar,Pune,500,97,681, Today
+2413,Dr. Ganesh,Dentist,14,DentalTree (Implants - Cosmetics - Lasers),Aundh,Pune,500,97,273, Today
+2414,Dr. Surbhi Bhatia L,Dentist,18,Lifeberries Health,Viman Nagar,Pune,500,97,370, Today
+2415,Dr. Shardul Sontakke,Dentist,23,Smile Gallery Dental Care Centre,Kothrud,Pune,500,99,142, Today
+2416,Dr. Gaurav Gupta,Dentist,19,Fresh Smiles,Wanowrie,Pune,500,99,55, Today
+2417,Dr. Hemant Patil,Dentist,16,Laconic Dental Studio,Pimple Saudagar,Pune,500,93,680, Today
+2418,Dr. Rohit Jethale,Dentist,13,Dentalist - The Smile Experts,Kharadi,Pune,500,100,205, Today
+2419,Dr. Ketkee Asnani,Dentist,14,Dentalogy - Tooth Care Centre,Bund Garden,Pune,300,99,105, Today
+2420,Dr. Ashish Gupta,Dentist,18,Acme Dental Lounge,Aundh,Pune,500,98,807, Today
+2421,Dr. Anjali V. Mugal,Dentist,14,Divine Multispeciality Dental Clinic and Implant Centre,Kharadi,Pune,300,100,50, Today
+2424,Dr. Harveen Nakra,Dentist,23,Dental World,Punjabi Bagh,Delhi,500,99,181, Today
+2425,Dr. Ravneet Kaur,Dentist,14,Dr Sharma’s Dental Clinic,Vasant Vihar,Delhi,1000,100,84, Today
+2426,Dr. Namita Karna,Dentist,25,Max Multi Speciality Centre - Panchsheel Park,Panchsheel Park,Delhi,1000,33,2, Today
+2427,Dr. Vinod Khanna,Dentist,14,Complete Dental Care,Ramesh Nagar,Delhi,500,98,133, Today
+2428,Dr. Harleen Gandhi Kalsi,Dentist,14,Meraki Dental Studio,South Extension 2,Delhi,700,100,43, Today
+2429,Dr. Manreet Sidhu,Dentist,12,The Dental Experience,Greater Kailash Part 2,Delhi,1000,100,12, Today
+2430,Dr. Shivani Agarwal,Dentist,23,Indraprastha Apollo Hospitals,Sarita Vihar,Delhi,700,99,39, Today
+2431,Dr. Aval Luthra,Dentist,22,Dental Arche,Vasant Kunj,Delhi,700,97,43, Today
+2432,Dr. Akash Sachdeva,Dentist,25,Max Super Speciality Hospital - Saket East Wing,Saket,Delhi,800,95,5, Today
+2433,Dr. Aseem Gulati,Dentist,23,Dental and Orthodontic Centre,Greater Kailash Part 2,Delhi,1000,98,117, Today
+2436,Dr. Somik Bose,Dentist,15,Orange Dental Clinic,Bhawanipore,Kolkata,500,96,40, Today
+2437,Dr. Sawon Barman,Dentist,26,Smile Signature Dental Clinic,Haridevpur,Kolkata,500,95,35, Today
+2438,Dr. Isha Juneja Bhardwaj,Dentist,14,Horizon Lifeline Pvt Ltd,Entally,Kolkata,500,97,85, Today
+2439,Dr. Shuvro Sengupta,Dentist,9,Sensiv Dental Clinic,Keshtopur,Kolkata,500,100,321, Today
+2440,Dr. Sumit Khatore,Dentist,11,Divine Dental Hub,Beliaghata,Kolkata,300,100,12, Today
+2441,Dr. Nikita Parasrampuria,Dentist,10,Smile Studio Dental Clinic,Lake Town,Kolkata,500,92,32, Today
+2442,Dr. Disha Agarwal,Dentist,13,Dentistree,Park Street,Kolkata,500,98,149, Today
+2443,Dr. Anupreet Kaur Choudhury,Dentist,28,Dentall,Keshtopur,Kolkata,500,99,687, Today
+2444,Dr. Deepan Chandra,Dentist,17,Smilecare Dental Clinic,Tollygunge,Kolkata,800,96,47, Today
+2445,Dr. Biswaroop Chandra,Dentist,15,Little Smiles Multispeciality Dental Clinic,Bansdroni,Kolkata,500,98,46, Today
+2597,Dr. Prakash Kini,Gynecologist/Obstetrician,46,Cloudnine Hospital - Jayanagar,Jayanagar,Bangalore,1050,96,147, Today
+2598,Dr. Vanita Vaishnav,Gynecologist/Obstetrician,14,Apollo Clinic,HSR Layout,Bangalore,600,98,63, Today
+2599,Dr. Rekha Prashanth,Gynecologist/Obstetrician,29,Varalakshmi Hospital,BTM Layout 1st Stage,Bangalore,600,89,61, Today
+2600,Dr. K. Sushmita,Gynecologist/Obstetrician,21,Cloudnine Hospitals - Sahakarnagar,Sahakaranagar,Bangalore,850,98,430, Today
+2601,Dr. Sandhya Rani,Gynecologist/Obstetrician,17,Cloudnine Hospital - Old Airport Road,Old Airport Road,Bangalore,850,98,44, Today
+2602,Dr. Brunda Channappa,Gynecologist/Obstetrician,33,Cloudnine Hospital - Jayanagar,Jayanagar,Bangalore,850,90,62, Today
+2603,Dr. Uma Maheshwari,Gynecologist/Obstetrician,24,"Cloudnine Fertility - IVF Centre, Jayanagar",Jayanagar,Bangalore,850,95,95, Today
+2604,Dr. D Vijaya Meenakshi,Gynecologist/Obstetrician,20,Manipal Hospital Varthur Road,Whitefield,Bangalore,800,97,62, Today
+2605,Dr. Poornima. M,Gynecologist/Obstetrician,18,Cloudnine Hospital - Old Airport Road,Old Airport Road,Bangalore,850,98,35, Today
+2606,Dr. Anu Joseph,Gynecologist/Obstetrician,15,Kauvery Hospitals,Electronics City,Bangalore,550,96,162, Today
+2608,Dr. Swapna Mudragada,Gynecologist/Obstetrician,21,MedSurge Clinics,Narsingi,Hyderabad,500,100,7, Today
+2609,Dr. A. Santhi,Gynecologist/Obstetrician,21,Gleneagles Global Hospital,Lakdikapul,Hyderabad,800,100,1, Today
+2610,Dr. G Keertana Reddy,Gynecologist/Obstetrician,14,Zoi Health,Ameerpet,Hyderabad,500,100,15, Today
+2611,Dr. B.V. Hemavathi,Gynecologist/Obstetrician,19,Apollo DRDO Hospital,Kanchanbagh,Hyderabad,600,100,1, Today
+2612,Dr. Bharathi Sudha A,Gynecologist/Obstetrician,10,IVY Women and Fertility Centre,Gachibowli,Hyderabad,600,100,2, Today
+2613,Dr. Nikitha Reddy,Gynecologist/Obstetrician,9,Vaidya Poly Clinic,Madhapur,Hyderabad,500,100,10, Today
+2614,Dr. Dimple Mishra,Gynecologist/Obstetrician,9,Tara Super Speciality Clinic,Nallagandla,Hyderabad,600,100,31, Today
+2615,Dr. Swarnalatha Kamshetty,Gynecologist/Obstetrician,13,Aanvi Fertility and Women's Centre,Tilak Nagar,Hyderabad,500,100,4, Today
+2616,Dr. Durga Vytla,Gynecologist/Obstetrician,14,Hegde Hospital,Miyapur,Hyderabad,600,98,155, Today
+2617,Dr. Sangita A,Gynecologist/Obstetrician,28,Apollo DRDO Hospital,Kanchanbagh,Hyderabad,500,75,6, Today
+2619,Dr. V. Bharathi,Gynecologist/Obstetrician,16,Bharati Fertility & Women Center,Mandaveli,Chennai,750,97,55, Today
+2620,Dr. Sathya Balasubramanyam,Gynecologist/Obstetrician,27,"Cloudnine Fertility - IVF Centre, T-Nagar",T Nagar,Chennai,600,98,58, Today
+2621,Dr. Abirami,Gynecologist/Obstetrician,11,Apollo Womens Hospital,Thousand Lights,Chennai,1000,88,7, Today
+2622,Dr. Sowmya Raghavan,Gynecologist/Obstetrician,29,Apollo Speciality Hospitals O M R,OMR Road,Chennai,700,92,8, Today
+2623,Dr. Sura Pushpalatha,Gynecologist/Obstetrician,25,Rainbow Children`s Hospital,Sholinganallur,Chennai,800,94,10, Today
+2624,Dr. Karthiga Devi,Gynecologist/Obstetrician,18,Apollo Speciality Hospitals O M R,OMR Road,Chennai,800,100,61, Today
+2625,Dr. P. Surya,Gynecologist/Obstetrician,15,Cloudnine Hospital - OMR,OMR Road,Chennai,600,100,1, Today
+2626,Dr. Nithya J,Gynecologist/Obstetrician,15,Apollo Speciality Hospitals O M R,OMR Road,Chennai,700,100,1, Today
+2627,Dr. Meera Ragavan,Gynecologist/Obstetrician,27,Apollo Spectra Hospital,Alwarpet,Chennai,1000,88,10, Today
+2628,Dr. Jeya Nirmala R,Gynecologist/Obstetrician,23,Jeevan Mithra Fertility & Women Care Centre,Arumbakkam,Chennai,500,94,28, Today
+2630,Dr. Harshika Bavishi,Gynecologist/Obstetrician,37,Dr. Harshika's Maternity Home,Chembur East,Mumbai,1000,96,52, Today
+2631,Dr. Vandana Bansal,Gynecologist/Obstetrician,30,Surya Hospitals,Santacruz West,Mumbai,1500,70,7, Today
+2632,Dr. Punam Solanki,Gynecologist/Obstetrician,14,Apple Diagnostic Centre,Andheri West,Mumbai,900,80,12, Today
+2633,Dr. Ritu Palve,Gynecologist/Obstetrician,21,S L Raheja Fortis Hospital,Mahim,Mumbai,1300,100,3, Today
+2634,Dr. Sonal Kumta,Gynecologist/Obstetrician,19,Fortis Hospital,Mulund West,Mumbai,1300,94,21, Today
+2635,Dr. Atul Ganatra,Gynecologist/Obstetrician,34,Fortis Hospital,Mulund West,Mumbai,1300,88,5, Today
+2636,Dr. Ketan Pandit,Gynecologist/Obstetrician,33,Fortis Hospital,Mulund West,Mumbai,1300,100,5, Today
+2637,Dr. Pooja Shukla,Gynecologist/Obstetrician,15,Cloudnine Hospital,Malad West,Mumbai,1100,99,153, Today
+2638,Dr. Anagha Chhatrapati,Gynecologist/Obstetrician,16,Global Hospitals,Parel,Mumbai,1600,100,6, Today
+2639,Dr. Aditi Phulpagar,Gynecologist/Obstetrician,22,S L Raheja Fortis Hospital,Mahim,Mumbai,1300,100,1, Today
+2641,Dr. Mugdha Joshi,Gynecologist/Obstetrician,18,Shri Waman Ganesh Clinic,Bavdhan,Pune,500,99,322, Today
+2642,Dr. Rajeshwari Pawar,Gynecologist/Obstetrician,35,Blooming Buds Clinic and Diagnostic Center,Magarpatta City,Pune,600,96,251, Today
+2643,Dr. Vaishali R Chavan,Gynecologist/Obstetrician,31,Saanvi Gynaecology And Maternity Center,Wanowrie,Pune,500,92,34, Today
+2644,Dr. Asha Hol,Gynecologist/Obstetrician,20,Shreeyash Clinic,Sinhagad Road,Pune,600,98,65, Today
+2645,Dr. Vijay Kumar S Mete,Gynecologist/Obstetrician,20,Amruta Maternity and General Hospital,Pimpri-Chinchwad,Pune,500,86,6, Today
+2646,Dr. Vaishali Chaudhary,Gynecologist/Obstetrician,30,Dr. Vaishali Chaudhary's Ankur Fertility Centre,Yerwada,Pune,800,97,177, Today
+2647,Dr. Mithil Patil,Gynecologist/Obstetrician,21,South Asia Fertility Center & Ashwini Hospital,Balewadi,Pune,500,98,60, Today
+2648,Dr. Archana Chandak,Gynecologist/Obstetrician,30,Apollo Clinic,Nigdi,Pune,600,85,17, Today
+2649,Dr. Sneha Vijay Raut,Gynecologist/Obstetrician,14,Lopmudra Hospital,Pashan,Pune,500,100,1, Today
+2650,Dr. Chinmay Pramod Umarji,Gynecologist/Obstetrician,13,Umarji Mother & Child Care,Baner,Pune,600,97,181, Today
+2652,Dr. Jasleen Kaur Malhotra,Gynecologist/Obstetrician,24,Femme Wellness Clinic,Dwarka,Delhi,700,98,415, Today
+2653,Dr. Shikha Gurnani,Gynecologist/Obstetrician,20,Bloom Vision Clinic,Dwarka,Delhi,800,98,687, Today
+2654,Dr. Jyoti Bhaskar,Gynecologist/Obstetrician,35,Cloudnine Hospitals,Patparganj,Delhi,1100,99,103, Today
+2655,Dr. Anita K Jain,Gynecologist/Obstetrician,24,Dr. Anita's Mother And Child Clinic,Paschim Vihar,Delhi,600,98,60, Today
+2656,Dr. Yashica Gudesar,Gynecologist/Obstetrician,24,Manipal Hospital,Dwarka Sector 6,Delhi,900,95,196, Today
+2657,Dr. Harveen Kaur,Gynecologist/Obstetrician,23,Healence Clinic & Diagnostics,Malviya Nagar,Delhi,1000,97,70, Today
+2658,Dr. Preeti Tahilyani,Gynecologist/Obstetrician,21,Cherish Mother & Child Care  Clinic,Dwarka,Delhi,1000,100,79, Today
+2659,Dr. Pratibha Gupta,Gynecologist/Obstetrician,22,Healing Hands PG Gynaecology & Urology Center,Janakpuri,Delhi,600,95,392, Today
+2660,Dr. Stuti Ranjan Chawla,Gynecologist/Obstetrician,24,Dr Stuti Ranjan Chawla Clinic,Dwarka,Delhi,600,97,121, Today
+2661,Dr. Anuradha Dakour,Gynecologist/Obstetrician,19,Motherhood Clinic,Lajpat Nagar,Delhi,500,97,201, Today
+2663,Dr. Sukhamoy Barik,Gynecologist/Obstetrician,16,Charnock Hospital,Teghoria,Kolkata,650,99,105, Today
+2664,Dr. ARCHANA  SINHA,Gynecologist/Obstetrician,22,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,600,75,2, Today
+2665,Dr. Arnab Basak,Gynecologist/Obstetrician,26,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,1200,99,115, Today
+2666,Dr. Subidita Chatterjee,Gynecologist/Obstetrician,38,Body N Mind Cafe,Salt Lake,Kolkata,1000,90,280, Today
+2667,Dr. Sharmishtha Patra,Gynecologist/Obstetrician,25,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,700,85,65, Today
+2668,Dr. Arunima Haldar,Gynecologist/Obstetrician,14,Care N Cure Opticals And Wellness Centre,New Town,Kolkata,600,98,28, Today
+2669,Dr. Sunipa Chatterjee,Gynecologist/Obstetrician,11,Techno India Dama Healthcare & Medical Centre,Beliaghata,Kolkata,900,100,7, Today
+2670,Dr. Shamita Singhel,Gynecologist/Obstetrician,26,AMRI Hospitals,Salt Lake,Kolkata,500,100,8, Today
+2671,Dr. M. Padmaja Bhattacharya,Gynecologist/Obstetrician,29,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,900,96,29, Today
+2672,Dr. Ramna Banerjee,Gynecologist/Obstetrician,26,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,1000,92,28, Today
+2675,Dr. Deepthi RK Shashidhar,Gynecologist/Obstetrician,16,First Care Clinic,Jayanagar 4 Block,Bangalore,600,98,361, Today
+2676,Dr. M. Gowri,Gynecologist/Obstetrician,33,Queens Hospital,HSR Layout,Bangalore,700,91,272, Today
+2677,Dr. Suman Singh,Gynecologist/Obstetrician,29,Manasi Clinic,BTM Layout 2nd Stage,Bangalore,700,93,766, Today
+2678,Dr. Asha Puranikmath,Gynecologist/Obstetrician,32,Motherhood Hospital,Indiranagar,Bangalore,800,91,87, Today
+2679,Dr. Vidya Muralidhar,Gynecologist/Obstetrician,14,Maathrika Women's Speciality Clinic,Hebbal Kempapura,Bangalore,500,98,149, Today
+2680,Dr. Pradeepa,Gynecologist/Obstetrician,17,Manipal Hospital,Jayanagar 9 Block,Bangalore,650,98,27, Today
+2681,Dr. Phani Madhuri,Gynecologist/Obstetrician,20,MAK Speciality Health Center,Sarjapur Road,Bangalore,700,95,709, Today
+2682,Dr. K. Sushmita,Gynecologist/Obstetrician,21,Cloudnine Hospitals - Sahakarnagar,Sahakaranagar,Bangalore,850,98,430, Today
+2683,Dr. Aruna Sahadev,Gynecologist/Obstetrician,21,Xpert Super Speciality Clinic,Rajarajeshwarinagar,Bangalore,600,94,87, Today
+2684,Dr. Vijaya Sherbet,Gynecologist/Obstetrician,32,Manipal Hospital,Hebbal,Bangalore,800,94,30, Today
+2687,Dr. K. Suma,Gynecologist/Obstetrician,35,Prasad Infertility Solutions,Kukatpally,Hyderabad,700,93,146, Today
+2688,Dr. Puja Lavania,Gynecologist/Obstetrician,17,Life Care Gynaecology Hospital,Chanda Nagar,Hyderabad,400,94,149, Today
+2689,Dr. B Kiranmayee,Gynecologist/Obstetrician,14,Kiranmayee Women & Fertility Clinic,Nallagandla,Hyderabad,550,96,231, Today
+2690,Dr. Jasmin Rath,Gynecologist/Obstetrician,19,Apollo Hospitals,Jubilee Hills,Hyderabad,800,94,67, Today
+2691,Dr. Revathy Ramaswamy,Gynecologist/Obstetrician,34,Apollo Hospital,Secunderabad,Hyderabad,800,95,42, Today
+2692,Dr. Anusha Emani,Gynecologist/Obstetrician,13,Lotus Hospitals | Kukatpally,Kukatpally,Hyderabad,500,97,62, Today
+2693,Dr. N. Sarada Vani,Gynecologist/Obstetrician,24,Genesis Clinics,Ameerpet,Hyderabad,400,95,242, Today
+2694,Dr. Pratibha Narayan,Gynecologist/Obstetrician,28,The Birthplace Hospital,Banjara Hills,Hyderabad,1000,91,172, Today
+2695,Dr. Vandana Hegde,Gynecologist/Obstetrician,20,Hegde Fertility,Hitech City,Hyderabad,800,93,885, Today
+2696,Dr. Swathi Apsani,Gynecologist/Obstetrician,22,Parvathi Hospital,West Marredpally,Hyderabad,800,94,190, Today
+2699,Dr. Florence Vasantha Praba,Gynecologist/Obstetrician,23,Cherub Fertility Clinic,Rajakilpakkam,Chennai,400,96,93, Today
+2700,Dr. Sharadha SO,Gynecologist/Obstetrician,17,SRS Speciality Clinic,KK Nagar,Chennai,500,100,175, Today
+2701,Dr. Madhumitha R,Gynecologist/Obstetrician,10,The Hive Fertility Clinic and Women Center,Madipakkam,Chennai,300,100,129, Today
+2702,Dr. P. V. Anuradha,Gynecologist/Obstetrician,35,Anyaa  Wellness for Women,Anna Nagar East,Chennai,1000,99,162, Today
+2703,Dr. Parimalam Ramanathan,Gynecologist/Obstetrician,29,Apollo Speciality Hospitals O M R,OMR Road,Chennai,700,98,241, Today
+2704,Dr. Srikala Prasad,Gynecologist/Obstetrician,32,Apollo Speciality Hospital,Vanagaram,Chennai,1000,98,113, Today
+2705,Dr. M.H. Abinaya,Gynecologist/Obstetrician,21,Sai Ram Fertility & Maternity Clinic,T Nagar,Chennai,700,99,189, Today
+2706,Dr. K.S. Ramya,Gynecologist/Obstetrician,18,Diya Speciality Clinic,Velachery,Chennai,500,99,368, Today
+2707,Dr. Inthu,Gynecologist/Obstetrician,12,Practo Care Surgeries,Kolathur,Chennai,500,100,679, Today
+2708,Dr. Kanimozhi,Gynecologist/Obstetrician,20,Apollo Fertility,Anna Nagar,Chennai,1000,99,103, Today
+2710,Dr. Kishori Dinendra Kadam,Gynecologist/Obstetrician,39,Fortis Hospital,Mulund West,Mumbai,1300,90,24, Today
+2711,Dr. Shilpa Bansal Agrawal,Gynecologist/Obstetrician,18,Harleys Cosmetic & Women Clinic,Andheri West,Mumbai,1500,99,472, Today
+2712,Dr. Shilpa Abhyankar,Gynecologist/Obstetrician,29,Parchure Nursing Home,Dadar East,Mumbai,800,97,135, Today
+2713,Dr. Gouri Sultane Gupta,Gynecologist/Obstetrician,20,DZIRE IVF,Goregaon West,Mumbai,1000,91,99, Today
+2714,Dr. Nanda R Kumar,Gynecologist/Obstetrician,20,Dr. Nanda R Kumar's Gynecology Clinic.,Chembur East,Mumbai,1000,89,118, Today
+2715,Dr. Shreedevi Tanksale,Gynecologist/Obstetrician,15,Little Miracles Fertility Clinic,Vileparle East,Mumbai,1000,99,125, Today
+2716,Dr. Nutan Hegde,Gynecologist/Obstetrician,20,Saple Clinic,Dadar West,Mumbai,900,97,69, Today
+2717,Dr. Renubala Rout,Gynecologist/Obstetrician,17,For Women,Kandivali East,Mumbai,1000,96,34, Today
+2718,Dr. Pradnya Randive,Gynecologist/Obstetrician,17,Aaditya Care Maternity Home,Bhandup West,Mumbai,800,95,79, Today
+2719,Dr. Hemlata Hardasani,Gynecologist/Obstetrician,27,Mothers Care Clinic,Andheri West,Mumbai,1500,99,759, Today
+2722,Dr. Sarika Dahiphale,Gynecologist/Obstetrician,20,Coral Women's & Child Care Clinic & Fertility Center,Baner,Pune,700,98,227, Today
+2723,Dr. Mohita Goyal,Gynecologist/Obstetrician,23,Mohita Poly Clinic,Viman Nagar,Pune,600,95,289, Today
+2724,Dr. Manisha Munemane,Gynecologist/Obstetrician,28,Vatsalya Women's World,Wakad,Pune,600,94,401, Today
+2725,Dr. Deepali Nirawane,Gynecologist/Obstetrician,20,ORanGE Health Care,Wakad,Pune,700,98,228, Today
+2726,Dr. Meghana Giri,Gynecologist/Obstetrician,18,GK Women's Care Clinic,Viman Nagar,Pune,400,95,92, Today
+2727,Dr. Bharati Dhorepatil,Gynecologist/Obstetrician,40,Shree Hospital,Nagar Road,Pune,600,89,37, Today
+2728,Dr. Jyoti Dekate,Gynecologist/Obstetrician,19,Rainmist Healthcare,Wakad,Pune,600,96,230, Today
+2729,Dr. Manjusha Yetalkar,Gynecologist/Obstetrician,26,Nisarg Women Healthcare,Pimple Saudagar,Pune,600,95,140, Today
+2730,Dr. Seema Jain,Gynecologist/Obstetrician,28,CheQKmate - An IVF & Sexual Health Clinic,Pimple Saudagar,Pune,750,94,563, Today
+2731,Dr. Madhuri Roy,Gynecologist/Obstetrician,26,"Conceive India IVF Fertility,Gynecology and Test Tube Baby Centre",Hinjewadi,Pune,700,97,86, Today
+2734,Dr. Neha Khandelwal,Gynecologist/Obstetrician,19,FeHealth Clinic,Greater Kailash Part 1,Delhi,1200,99,488, Today
+2735,Dr. Shikha Gurnani,Gynecologist/Obstetrician,20,Bloom Vision Clinic,Dwarka,Delhi,800,98,687, Today
+2736,Dr. Pratibha Gupta,Gynecologist/Obstetrician,22,Healing Hands PG Gynaecology & Urology Center,Janakpuri,Delhi,600,95,392, Today
+2737,Dr. Sutopa Banerjee,Gynecologist/Obstetrician,26,Dr. Sutopa Banerjee's Complete Care for Women,Vasant Kunj,Delhi,1200,97,788, Today
+2738,Dr. Anuradha Dakour,Gynecologist/Obstetrician,19,Motherhood Clinic,Lajpat Nagar,Delhi,500,97,201, Today
+2739,Dr. Parinita Kalita,Gynecologist/Obstetrician,33,Max Super Speciality Hospital,Patparganj,Delhi,1000,89,179, Today
+2740,Dr. Neelam Walia,Gynecologist/Obstetrician,48,Walia Medical and Maternity Centre,Sarita Vihar,Delhi,800,95,146, Today
+2741,Dr. Jasleen Kaur Malhotra,Gynecologist/Obstetrician,24,Femme Wellness Clinic,Dwarka,Delhi,700,98,415, Today
+2742,Dr. Pooja Choudhary,Gynecologist/Obstetrician,23,Gynae and Ent Clinic,Safdarjung Enclave,Delhi,900,96,133, Today
+2743,Dr. Meghana A,Gynecologist/Obstetrician,15,Matritva Women's Clinic,Vasant Kunj,Delhi,650,99,187, Today
+2746,Dr. Subidita Chatterjee,Gynecologist/Obstetrician,38,Body N Mind Cafe,Salt Lake,Kolkata,1000,90,280, Today
+2747,Dr. Irina Dey,Gynecologist/Obstetrician,19,AMRI Hospitals,Dhakuria,Kolkata,900,100,144, Today
+2748,Dr. Nandini Chakrabarti Bhattacharyya,Gynecologist/Obstetrician,26,AMRI Hospitals,Salt Lake,Kolkata,800,58,15, Today
+2749,Dr. Sharmishtha Patra,Gynecologist/Obstetrician,25,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,700,85,65, Today
+2750,Dr. Arunima Haldar,Gynecologist/Obstetrician,14,Care N Cure Opticals And Wellness Centre,New Town,Kolkata,600,98,28, Today
+2751,Dr. Sunipa Chatterjee,Gynecologist/Obstetrician,11,Techno India Dama Healthcare & Medical Centre,Beliaghata,Kolkata,900,100,7, Today
+2752,Dr. Shamita Singhel,Gynecologist/Obstetrician,26,AMRI Hospitals,Salt Lake,Kolkata,500,100,8, Today
+2753,Dr. Arindam Rath,Gynecologist/Obstetrician,19,Apollo Fertility,Gobra,Kolkata,1000,100,6, Today
+2754,Dr. M. Padmaja Bhattacharya,Gynecologist/Obstetrician,29,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,900,96,29, Today
+2755,Dr. Ramna Banerjee,Gynecologist/Obstetrician,26,Apollo Gleneagles Hospitals,Salt Lake,Kolkata,1000,92,28, Today
+2791,Dr. Komal Sharma,Homoeopath,11,Dr. Chetan's Homeo Clinics,Begumpet,Hyderabad,51,99,47, Today
+2797,Dr. Satish Erra,Homoeopath,14,Dr. Satish Erra's Homeopathy Clinic,Dilsukhnagar,Hyderabad,500,98,579, Today
+2806,Dr. Pravin K Aggarwal,General Physician,42,Fortis Malar Hospital,Adyar,Chennai,700,85,5, Today
+2808,Dr. Poonam Verma,Ayurveda,27,Bliss Medicare Centre,Vadapalani,Chennai,600,96,17, Today
+2814,Dr. Bhavesh Acharya,Homoeopath,34,Global Homoeopathy and Esthetiques Clinic,Andheri East,Mumbai,1500,98,581, Today
+2816,Dr. Jagat Shah,Homoeopath,21,Total Health Care,Borivali West,Mumbai,800,95,125, Today
+2832,Dr. Vaseem Choudhary,Homoeopath,14,Homeo Care Clinic,Hadapsar,Pune,300,92,280, Today
+2846,Dr. Supra Paul,Homoeopath,22,Dr Batra's Positive Health Clinic Pvt Ltd,Minto Park,Kolkata,450,100,8, Today
+2847,Dr. Abhishek Chaturvedi,Homoeopath,12,Dr Batra's Positive Health Clinic Pvt Ltd,Behala,Kolkata,450,86,6, Today
+2848,Dr. Chinmay Mahanta,Homoeopath,19,Dr Batra's Positive Health Clinic Pvt Ltd,Kolkatta,Kolkata,450,100,1, Today
+2849,Dr. Shahid Shaikh,Homoeopath,18,Dr Batra's Positive Health Clinic Pvt Ltd,Salt Lake,Kolkata,450,100,1, Today
+2850,Dr. Chayan Kumar Roy,General Physician,28,Rameswara Nursing Home,Ultadanga,Kolkata,800,100,1, Today
+2851,Dr. Dipayan Das,Homoeopath,12,The Healers,Garia,Kolkata,600,90,18, Today
+2852,Dr. Shyama Prasad Roy,General Physician,37,Binapani Doctor's Chamber,Jadavpur,Kolkata,700,79,8, Today
+2853,Dr. Sandip Rungta,General Physician,23,Mansa Sheel,Beadon Street,Kolkata,700,99,312, Today
